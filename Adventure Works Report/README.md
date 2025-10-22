@@ -1,4 +1,10 @@
-# README
+# Adventure Works Report
+
+<img alt="Executive Page of AdventureWorks Dashboard" width="400px" src="../Adventure%20Works%20Report/resources/ExecDashboard.png">
+
+[Link to Hosted Report](https://app.powerbi.com/view?r=eyJrIjoiN2ZhNTAzM2YtNmJjNS00M2RjLWJlMmEtMWFiNzEwYjRmOTlkIiwidCI6IjlhYzIwMTdiLTBiNjAtNDgzZC1iYjkzLWVjOWU3YTU1MDE3MCJ9)
+
+
 
 ## Situation
 I was tasked with a project to analyze raw sales and operational data for AdventureWorks, a fictional global manufacturing company specializing in cycling equipment. The project's starting point was a collection of disparate CSV files, and there was no existing centralized tool to monitor key performance indicators (KPIs) or make informed, data-driven decisions.
@@ -20,3 +26,8 @@ The project culminated in a dynamic and fully interactive Power BI dashboard tha
 - Segment and identify high-value customers, creating opportunities for targeted marketing and sales strategies.
 
 This analysis transformed raw data into actionable intelligence, providing a clear and comprehensive tool for data exploration and strategic insights.
+
+<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/Map.png">
+<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/ProductDetail.png">
+<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/CustomerDetail.png">
+<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/DataDictionary.png">

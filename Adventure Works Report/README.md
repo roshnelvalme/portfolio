@@ -14,8 +14,11 @@ My primary objective was to develop a comprehensive Power BI dashboard to track 
 
 ## Action
 1. **Data Transformation & Modeling:** I connected to multiple raw CSV files within Power BI, including data on transactions, returns, products, customers, and sales territories. Using Power Query, I cleaned, transformed, and shaped the data to ensure accuracy and consistency. I then built a relational star-schema data model, creating relationships between the fact and dimension tables to enable robust analysis.
+
 2. **DAX Calculations:** I developed several key measures and calculated columns using Data Analysis Expressions (DAX). These calculations formed the analytical backbone of the report, allowing for the dynamic calculation of metrics such as Total Revenue, Profit Margin, Return Rate, and Year-over-Year Sales Growth.
+
 3. **Dashboard Design & Visualization:** I designed a multi-page, interactive dashboard focused on user experience. The main page provided a high-level overview of key KPIs. Subsequent pages offered deep-dive analyses into regional performance, product-level trends, and customer segmentation. I utilized a variety of visualizations, including bar charts, line graphs, maps, and slicers, to present the data in an intuitive and compelling way.
+
 4. **Data Dictionary & Documentation:** To enhance usability and transparency, I created a dynamic data dictionary page within the dashboard. By leveraging DAX INFO functions, I exposed the metadata and descriptions for all tables and measures used in the model, providing clear, in-report documentation for both business users and technical stakeholders.
 
 ## Result

@@ -22,7 +22,7 @@ Built a Power BI leadership dashboard to support recurring review of enterprise 
 
 **Tools Used:** Power BI, Power Query, DAX, LMS Exports, CSV Files
 
-[View Project]("Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/README.md")
+[View Project](Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/README.md)
 
 Built a Power BI Dashboard that replaced manual Excel tracking by combining LMS exports and workstream mapping files into automated course, learning path, workstream, and learning completion KPIs.
 

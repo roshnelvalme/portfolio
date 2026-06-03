@@ -8,7 +8,7 @@ Below are a few projects that highlight my experience in business intelligence, 
 
 ### Enterprise Issue Management Leadership Dashboard
 
-[Link to Project]("../Enterprise%20Issue%20Management%20Leadership%20Dashboard/README.md)
+[Link to Project]("Enterprise%20Issue%20Management%20Leadership%20Dashboard/README.md)
 
 ---
 

@@ -34,7 +34,7 @@ Built a Power BI Dashboard that replaced manual Excel tracking by combining LMS 
 
 **Tools Used:** Power BI, Power Query, DAX, LMS Exports, CSV Files
 
-[View Project]("Adventure%20Works%20Report/README.md")
+[View Project](Adventure%20Works%20Report/README.md)
 
 Built a Power BI sales analytics report using the Adventure Works sample dataset to demonstrate semantic modeling, DAX measure development, sales performance analysis, product and customer segmentation, and executive-style report design using a public dataset.
 

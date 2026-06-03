@@ -125,8 +125,8 @@ Three companion formatting measures convert each of those minute totals into an 
 <a href = "../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/Sources.png">
 <img align="left" alt="Sources Page of Training Dashboard: Power BI Automation for LMS Course, Learning Path, and Workstream KPIs" width="250px" src="../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/Sources.png">
 </a>
-<a href = "../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/WorkstreamOverview-Reset.png">
-<img align="left" alt="Workstream Overview Page of Training Dashboard: Power BI Automation for LMS Course, Learning Path, and Workstream KPIs" width="250px" src="../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/WorkstreamOverview-Reset.png">
+<a href = "../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/WorkStreamOverview-Reset.png">
+<img align="left" alt="Workstream Overview Page of Training Dashboard: Power BI Automation for LMS Course, Learning Path, and Workstream KPIs" width="250px" src="../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/WorkStreamOverview-Reset.png">
 </a>
 <a href = "../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/WorkstreamAudit-Reset.png">
 <img align="left" alt="Workstream Audit Page of Training Dashboard: Power BI Automation for LMS Course, Learning Path, and Workstream KPIs" width="250px" src="../Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/resources/WorkstreamAudit-Reset.png">

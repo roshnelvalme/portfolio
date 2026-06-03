@@ -1,6 +1,8 @@
 # Adventure Works Report
 
+<a href = "../Adventure%20Works%20Report/resources/ExecDashboard.png">
 <img alt="Executive Page of AdventureWorks Dashboard" width="400px" src="../Adventure%20Works%20Report/resources/ExecDashboard.png">
+</a>
 
 [Link to Hosted Report](https://app.powerbi.com/view?r=eyJrIjoiN2ZhNTAzM2YtNmJjNS00M2RjLWJlMmEtMWFiNzEwYjRmOTlkIiwidCI6IjlhYzIwMTdiLTBiNjAtNDgzZC1iYjkzLWVjOWU3YTU1MDE3MCJ9)
 
@@ -30,7 +32,15 @@ The project culminated in a dynamic and fully interactive Power BI dashboard tha
 
 This analysis transformed raw data into actionable intelligence, providing a clear and comprehensive tool for data exploration and strategic insights.
 
-<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/Map.png">
-<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/ProductDetail.png">
-<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/CustomerDetail.png">
-<img align="left" alt="Executive Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/DataDictionary.png">
+<a href = "../Adventure%20Works%20Report/resources/Map.png">
+<img align="left" alt="Map Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/Map.png">
+</a>
+<a href = "../Adventure%20Works%20Report/resources/ProductDetail.png">
+<img align="left" alt="Product Detail Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/ProductDetail.png">
+</a>
+<a href = "../Adventure%20Works%20Report/resources/CustomerDetail.png">
+<img align="left" alt="Customer Detail Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/CustomerDetail.png">
+</a>
+<a href = "../Adventure%20Works%20Report/resources/DataDictionary.png">
+<img align="left" alt="Data Dictionary Page of AdventureWorks Dashboard" width="250px" src="../Adventure%20Works%20Report/resources/DataDictionary.png">
+</a>

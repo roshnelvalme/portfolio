@@ -1,0 +1,821 @@
+People.ID,People.First Name,People.Last Name,Course.ID,Course.Title,Course User Results.Percentage,Course User Results.Date Completed,Course Custom Fields.Estimated Course Duration (hh:mm),Course User Results.Assignment Name
+20000137,Avery,Anderson,1000037,Coaching Conversations for Managers (online),100,09/07/2025 10:55,02:00,
+20000137,Avery,Anderson,1000074,Leading Through Change (instructor-led),100,06/14/2024 14:40,00:25,Natalie Brooks
+20000137,Avery,Anderson,1000111,Delegation Essentials (instructor-led),100,09/11/2025 13:10,01:00,
+20000137,Avery,Anderson,1000148,Performance Feedback Practice (online),100,09/17/2025 13:30,02:00,Marcus Reed
+20000137,Avery,Anderson,1000185,Strategic Thinking Foundations (video),100,03/04/2025 12:30,03:00,Elena Martinez
+20000137,Avery,Anderson,1000222,Managing Hybrid Teams (self-study),100,11/04/2025 15:05,01:00,Natalie Brooks
+20000137,Avery,Anderson,1000296,Inclusive Leadership Habits (self-study),100,08/21/2024 15:45,00:40,Natalie Brooks
+20000137,Avery,Anderson,1000333,Executive Presence Basics (video),100,11/20/2025 16:00,00:50,
+20000137,Avery,Anderson,1000370,Conflict Resolution for Leaders (online),100,04/16/2025 13:05,00:15,Natalie Brooks
+20000137,Avery,Anderson,1000407,Talent Review Readiness (online),100,05/28/2024 11:35,00:20,Marcus Reed
+20000137,Avery,Anderson,1000481,Leading Effective One-on-Ones (video),100,06/17/2025 17:30,00:40,Marcus Reed
+20000137,Avery,Anderson,1000518,Mentoring Emerging Leaders (instructor-led),100,01/18/2025 13:10,03:00,Priya Shah
+20000137,Avery,Anderson,1000555,Leadership Communication Lab (online),100,12/25/2025 09:10,02:30,Natalie Brooks
+20000137,Avery,Anderson,1000629,Manager Onboarding Essentials (online),100,07/21/2025 15:05,00:35,Elena Martinez
+20000137,Avery,Anderson,1000666,Code of Conduct Overview (Inactive 08/22/2025),70,,00:15,Marcus Reed
+20000137,Avery,Anderson,1000851,Conflicts of Interest (online),0,,00:20,Priya Shah
+20000137,Avery,Anderson,1000962,Global Trade Compliance (online),0,,02:30,Priya Shah
+20000137,Avery,Anderson,1001036,Policy Acknowledgement Review (online),26,,02:00,Marcus Reed
+20000137,Avery,Anderson,1001073,Third Party Risk Awareness (self-study),89,,01:00,Marcus Reed
+20000137,Avery,Anderson,1001258,Regulatory Audit Readiness (video),69,,00:50,Elena Martinez
+20000137,Avery,Anderson,1001295,Phishing Awareness Refresher (online),100,05/02/2025 09:35,01:00,Natalie Brooks
+20000137,Avery,Anderson,1001332,Password Security Essentials (instructor-led),100,10/23/2024 11:45,00:25,Elena Martinez
+20000137,Avery,Anderson,1001406,Data Classification Basics (instructor-led),100,04/16/2026 13:55,02:30,Natalie Brooks
+20000137,Avery,Anderson,1001443,Mobile Device Security (online),100,09/18/2024 15:45,01:15,Priya Shah
+20000137,Avery,Anderson,1001480,Social Engineering Defense (self-study),100,05/19/2025 12:15,00:45,Natalie Brooks
+20000137,Avery,Anderson,1001517,Incident Reporting Basics (self-study),100,03/14/2026 14:50,00:30,Priya Shah
+20000137,Avery,Anderson,1001554,Cloud Security Foundations (online),100,07/26/2024 17:10,03:00,Natalie Brooks
+20000137,Avery,Anderson,1001591,Multi-Factor Authentication (self-study),100,07/20/2025 13:45,01:00,Elena Martinez
+20000137,Avery,Anderson,1001628,Ransomware Awareness (online),100,09/22/2024 09:05,02:00,Natalie Brooks
+20000137,Avery,Anderson,1001665,Secure File Sharing (self-study),100,01/05/2026 12:00,01:45,Elena Martinez
+20000137,Avery,Anderson,1001702,Identity Protection Basics (Discontinued 10/01/2025),38,,01:45,Priya Shah
+20000137,Avery,Anderson,1001739,Security for Managers (video),100,01/01/2026 12:15,00:35,Priya Shah
+20000137,Avery,Anderson,1001776,Safe Browsing Practices (video),100,02/27/2025 13:30,00:45,Priya Shah
+20000137,Avery,Anderson,1001813,Endpoint Protection Overview (instructor-led),100,04/11/2025 13:20,01:30,Priya Shah
+20000137,Avery,Anderson,1001850,Cybersecurity Annual Review (online),100,06/11/2024 15:45,01:30,Priya Shah
+20000137,Avery,Anderson,1001887,Travel Security Tips (video),100,04/08/2025 16:40,00:40,Priya Shah
+20000137,Avery,Anderson,1001924,Project Charter Fundamentals (instructor-led),0,,00:50,Elena Martinez
+20000137,Avery,Anderson,1001961,Agile Planning Basics (instructor-led),0,,03:00,Elena Martinez
+20000137,Avery,Anderson,1002146,Waterfall Delivery Basics (self-study),51,,00:30,Elena Martinez
+20000137,Avery,Anderson,1002220,Scope Management Essentials (video),89,,00:40,Priya Shah
+20000137,Avery,Anderson,1002405,Resource Planning Lab (video),55,,01:15,Natalie Brooks
+20000137,Avery,Anderson,1002479,Project Governance Overview (online),95,,00:15,Marcus Reed
+20000137,Avery,Anderson,1003811,Consultative Selling Basics (instructor-led),0,,02:30,Natalie Brooks
+20000137,Avery,Anderson,1003848,Pipeline Management Essentials (instructor-led),0,,01:45,Natalie Brooks
+20000137,Avery,Anderson,1004033,Sales Forecasting Review (online),64,,00:20,Elena Martinez
+20000137,Avery,Anderson,1004144,Customer Value Messaging (self-study),36,,00:40,Marcus Reed
+20000137,Avery,Anderson,1004181,Renewal Conversation Skills (video),94,,02:00,Priya Shah
+20000137,Avery,Anderson,1004218,Territory Planning Lab (online),83,,02:30,Elena Martinez
+20000137,Avery,Anderson,1004255,Sales Presentation Practice (instructor-led),0,,00:20,Marcus Reed
+20000137,Avery,Anderson,1004366,Executive Buyer Alignment (video),0,,00:30,
+20000137,Avery,Anderson,1004588,Case Documentation Standards (instructor-led),60,,00:50,Marcus Reed
+20000137,Avery,Anderson,1004662,Support Queue Management (online),43,,02:30,Elena Martinez
+20000137,Avery,Anderson,1004699,De-Escalation Practice (video),0,,03:00,Marcus Reed
+20000137,Avery,Anderson,1004847,Service Metrics Foundations (video),79,,02:30,Priya Shah
+20000137,Avery,Anderson,1005032,Customer Success Handoff (Inactive 06/26/2024),0,,01:00,Natalie Brooks
+20000274,Jordan,Bennett,1000666,Code of Conduct Overview (Inactive 08/22/2025),13,,00:15,Priya Shah
+20000274,Jordan,Bennett,1000703,Anti-Bribery Fundamentals (online),3,,00:30,Natalie Brooks
+20000274,Jordan,Bennett,1000851,Conflicts of Interest (online),9,,00:20,Elena Martinez
+20000274,Jordan,Bennett,1000888,Ethical Decision Making (online),0,,01:45,Marcus Reed
+20000274,Jordan,Bennett,1000925,Reporting Concerns Safely (video),97,,00:50,Elena Martinez
+20000274,Jordan,Bennett,1000999,Workplace Investigations Basics (online),0,,00:20,Priya Shah
+20000274,Jordan,Bennett,1001036,Policy Acknowledgement Review (online),0,,02:00,Elena Martinez
+20000274,Jordan,Bennett,1001073,Third Party Risk Awareness (self-study),0,,01:00,Natalie Brooks
+20000274,Jordan,Bennett,1001221,Fair Competition Basics (instructor-led),57,,01:30,Elena Martinez
+20000274,Jordan,Bennett,1002553,Effective Meeting Facilitation (self-study),0,,01:45,Elena Martinez
+20000274,Jordan,Bennett,1002627,Active Listening Practice (self-study),15,,00:15,Priya Shah
+20000274,Jordan,Bennett,1002775,Giving and Receiving Feedback (online),0,,00:40,Elena Martinez
+20000274,Jordan,Bennett,1002849,Difficult Conversations Practice (self-study),91,,00:30,Natalie Brooks
+20000274,Jordan,Bennett,1002923,Team Norms Workshop (instructor-led),86,,01:30,Elena Martinez
+20000274,Jordan,Bennett,1002960,Storytelling with Data (self-study),24,,00:50,Priya Shah
+20000274,Jordan,Bennett,1002997,Negotiation Foundations (instructor-led),34,,00:30,Marcus Reed
+20000274,Jordan,Bennett,1003034,Communication Style Awareness (online),76,,01:00,Marcus Reed
+20000274,Jordan,Bennett,1003071,Building Trust Remotely (instructor-led),0,,00:25,Natalie Brooks
+20000274,Jordan,Bennett,1003108,Email Productivity Basics (online),0,,01:45,Marcus Reed
+20000274,Jordan,Bennett,1003145,Facilitation Practice Lab (self-study),0,,03:00,Priya Shah
+20000274,Jordan,Bennett,1003182,DEI Foundations (video),0,,03:00,Priya Shah
+20000274,Jordan,Bennett,1003219,Unconscious Bias Awareness (online),0,,01:15,Natalie Brooks
+20000274,Jordan,Bennett,1003293,Psychological Safety Basics (self-study),55,,00:50,Priya Shah
+20000274,Jordan,Bennett,1003330,Cultural Competence Overview (video),67,,00:30,Natalie Brooks
+20000274,Jordan,Bennett,1003367,Allyship in Action (online),0,,02:00,
+20000274,Jordan,Bennett,1003478,Equity in Talent Decisions (online),0,,00:45,Natalie Brooks
+20000274,Jordan,Bennett,1003589,Inclusive Meeting Design (instructor-led),95,,00:20,Priya Shah
+20000274,Jordan,Bennett,1003663,Respectful Workplace Review (online),23,,00:45,
+20000274,Jordan,Bennett,1003774,Inclusive Feedback Practices (online),0,,00:50,Elena Martinez
+20000274,Jordan,Bennett,1003811,Consultative Selling Basics (instructor-led),91,,02:30,Priya Shah
+20000274,Jordan,Bennett,1003848,Pipeline Management Essentials (instructor-led),50,,01:45,Marcus Reed
+20000274,Jordan,Bennett,1003885,Discovery Call Practice (instructor-led),0,,00:15,
+20000274,Jordan,Bennett,1003922,Handling Objections (instructor-led),82,,01:30,Marcus Reed
+20000274,Jordan,Bennett,1003996,Product Positioning Basics (video),4,,01:30,Priya Shah
+20000274,Jordan,Bennett,1004033,Sales Forecasting Review (online),0,,00:20,Elena Martinez
+20000274,Jordan,Bennett,1004070,Negotiation for Sellers (Inactive 02/21/2026),1,,00:45,Marcus Reed
+20000274,Jordan,Bennett,1004181,Renewal Conversation Skills (video),0,,02:00,
+20000274,Jordan,Bennett,1004255,Sales Presentation Practice (instructor-led),0,,00:20,Priya Shah
+20000274,Jordan,Bennett,1004329,Prospecting Fundamentals (video),0,,00:30,Elena Martinez
+20000274,Jordan,Bennett,1004366,Executive Buyer Alignment (video),24,,00:30,Priya Shah
+20000274,Jordan,Bennett,1004440,Customer Empathy Essentials (online),100,01/14/2025 13:35,00:50,Natalie Brooks
+20000274,Jordan,Bennett,1004514,Escalation Management (online),100,12/06/2025 11:40,00:25,Marcus Reed
+20000274,Jordan,Bennett,1004551,Customer Communication Skills (online),100,10/27/2024 14:35,00:35,Priya Shah
+20000274,Jordan,Bennett,1004588,Case Documentation Standards (instructor-led),100,07/20/2025 08:55,00:50,Marcus Reed
+20000274,Jordan,Bennett,1004662,Support Queue Management (online),100,06/06/2025 09:50,02:30,Natalie Brooks
+20000274,Jordan,Bennett,1004699,De-Escalation Practice (video),100,10/16/2025 11:20,03:00,
+20000274,Jordan,Bennett,1004736,Customer Journey Basics (instructor-led),100,10/09/2024 09:40,00:20,Elena Martinez
+20000274,Jordan,Bennett,1004773,Knowledge Base Authoring (online),100,09/02/2024 11:35,00:50,Marcus Reed
+20000274,Jordan,Bennett,1004810,First Contact Resolution (video),100,09/28/2025 14:50,02:00,Priya Shah
+20000274,Jordan,Bennett,1004847,Service Metrics Foundations (video),100,06/09/2024 15:25,02:30,Priya Shah
+20000274,Jordan,Bennett,1004884,Complaint Handling Practice (video),100,07/19/2024 14:30,02:30,Natalie Brooks
+20000274,Jordan,Bennett,1004921,Customer Feedback Review (online),100,11/03/2025 15:05,01:00,Marcus Reed
+20000274,Jordan,Bennett,1004958,SLA Management Basics (instructor-led),100,11/13/2025 13:25,00:20,Elena Martinez
+20000274,Jordan,Bennett,1004995,Support Team Collaboration (self-study),100,11/04/2024 10:25,00:15,Priya Shah
+20000274,Jordan,Bennett,1005032,Customer Success Handoff (Inactive 06/26/2024),9,,01:00,Natalie Brooks
+20000411,Morgan,Carter,1000037,Coaching Conversations for Managers (online),100,10/22/2024 08:15,02:00,Priya Shah
+20000411,Morgan,Carter,1000444,Building Team Accountability (instructor-led),100,06/02/2024 12:20,03:00,Priya Shah
+20000411,Morgan,Carter,1000814,Harassment Prevention (video),100,04/20/2026 15:20,00:20,Natalie Brooks
+20000411,Morgan,Carter,1000888,Ethical Decision Making (online),100,01/08/2026 11:10,01:45,
+20000411,Morgan,Carter,1001295,Phishing Awareness Refresher (online),100,12/02/2025 15:45,01:00,Priya Shah
+20000411,Morgan,Carter,1001332,Password Security Essentials (instructor-led),100,09/05/2024 14:45,00:25,Priya Shah
+20000411,Morgan,Carter,1001406,Data Classification Basics (instructor-led),100,08/22/2025 16:25,02:30,Priya Shah
+20000411,Morgan,Carter,1001443,Mobile Device Security (online),100,01/01/2025 16:40,01:15,Natalie Brooks
+20000411,Morgan,Carter,1001480,Social Engineering Defense (self-study),100,07/03/2024 12:45,00:45,Elena Martinez
+20000411,Morgan,Carter,1001517,Incident Reporting Basics (self-study),100,05/21/2025 08:35,00:30,Marcus Reed
+20000411,Morgan,Carter,1001554,Cloud Security Foundations (online),100,01/04/2026 11:30,03:00,Marcus Reed
+20000411,Morgan,Carter,1001591,Multi-Factor Authentication (self-study),100,10/25/2024 16:50,01:00,Priya Shah
+20000411,Morgan,Carter,1001628,Ransomware Awareness (online),100,09/06/2024 14:10,02:00,Priya Shah
+20000411,Morgan,Carter,1001665,Secure File Sharing (self-study),100,12/30/2025 16:30,01:45,Marcus Reed
+20000411,Morgan,Carter,1001739,Security for Managers (video),100,01/02/2025 14:50,00:35,
+20000411,Morgan,Carter,1001776,Safe Browsing Practices (video),100,12/04/2025 15:20,00:45,Elena Martinez
+20000411,Morgan,Carter,1001813,Endpoint Protection Overview (instructor-led),100,06/01/2025 09:35,01:30,
+20000411,Morgan,Carter,1001850,Cybersecurity Annual Review (online),100,11/24/2024 12:45,01:30,Marcus Reed
+20000411,Morgan,Carter,1001887,Travel Security Tips (video),100,01/28/2026 17:05,00:40,Natalie Brooks
+20000411,Morgan,Carter,1001998,Risk Register Workshop (instructor-led),100,03/28/2025 08:20,01:00,Elena Martinez
+20000411,Morgan,Carter,1002035,Stakeholder Mapping (instructor-led),100,11/14/2025 15:50,00:50,Priya Shah
+20000411,Morgan,Carter,1002146,Waterfall Delivery Basics (self-study),100,11/19/2024 10:40,00:30,Natalie Brooks
+20000411,Morgan,Carter,1002257,Retrospective Facilitation (instructor-led),100,07/28/2025 08:20,00:15,Elena Martinez
+20000411,Morgan,Carter,1002368,Change Control Basics (video),0,,00:30,Elena Martinez
+20000411,Morgan,Carter,1002701,Presentation Skills Basics (instructor-led),100,07/23/2024 11:20,00:20,Priya Shah
+20000411,Morgan,Carter,1002738,Influencing Without Authority (Inactive 03/23/2026),0,,02:30,Marcus Reed
+20000411,Morgan,Carter,1002886,Stakeholder Communication (self-study),100,09/21/2025 12:05,00:35,Marcus Reed
+20000411,Morgan,Carter,1002960,Storytelling with Data (self-study),100,01/05/2025 14:55,00:50,Marcus Reed
+20000411,Morgan,Carter,1003071,Building Trust Remotely (instructor-led),100,03/21/2025 17:10,00:25,Natalie Brooks
+20000411,Morgan,Carter,1003182,DEI Foundations (video),100,02/16/2025 17:00,03:00,Priya Shah
+20000411,Morgan,Carter,1003219,Unconscious Bias Awareness (online),100,11/18/2024 10:25,01:15,Natalie Brooks
+20000411,Morgan,Carter,1003256,Inclusive Hiring Practices (video),100,03/24/2026 17:25,01:15,Elena Martinez
+20000411,Morgan,Carter,1003293,Psychological Safety Basics (self-study),100,11/14/2024 08:55,00:50,Natalie Brooks
+20000411,Morgan,Carter,1003330,Cultural Competence Overview (video),100,01/27/2026 13:25,00:30,Natalie Brooks
+20000411,Morgan,Carter,1003367,Allyship in Action (online),100,01/23/2026 11:15,02:00,Natalie Brooks
+20000411,Morgan,Carter,1003404,Accessibility at Work (video),100,01/01/2026 11:15,00:50,Elena Martinez
+20000411,Morgan,Carter,1003441,Inclusive Language Practice (self-study),100,10/12/2024 14:30,02:00,Elena Martinez
+20000411,Morgan,Carter,1003478,Equity in Talent Decisions (online),100,06/27/2024 09:10,00:45,Elena Martinez
+20000411,Morgan,Carter,1003552,Microaggressions Awareness (online),100,01/06/2026 13:05,00:20,Priya Shah
+20000411,Morgan,Carter,1003589,Inclusive Meeting Design (instructor-led),100,10/05/2025 16:20,00:20,Elena Martinez
+20000411,Morgan,Carter,1003626,Diverse Team Collaboration (video),100,09/28/2024 13:55,01:30,Natalie Brooks
+20000411,Morgan,Carter,1003663,Respectful Workplace Review (online),100,12/31/2025 10:25,00:45,Marcus Reed
+20000411,Morgan,Carter,1003737,Employee Resource Group Basics (instructor-led),100,10/14/2024 12:40,00:45,Marcus Reed
+20000411,Morgan,Carter,1003774,Inclusive Feedback Practices (online),100,09/26/2024 09:50,00:50,Priya Shah
+20000411,Morgan,Carter,1003848,Pipeline Management Essentials (instructor-led),100,02/26/2025 16:15,01:45,Marcus Reed
+20000411,Morgan,Carter,1003922,Handling Objections (instructor-led),57,,01:30,Marcus Reed
+20000411,Morgan,Carter,1004107,CRM Hygiene Basics (video),100,03/14/2025 09:55,01:45,Natalie Brooks
+20000411,Morgan,Carter,1004144,Customer Value Messaging (self-study),0,,00:40,Elena Martinez
+20000411,Morgan,Carter,1004218,Territory Planning Lab (online),100,07/21/2024 10:55,02:30,Marcus Reed
+20000411,Morgan,Carter,1004440,Customer Empathy Essentials (online),100,02/09/2025 17:10,00:50,Natalie Brooks
+20000411,Morgan,Carter,1004551,Customer Communication Skills (online),0,,00:35,Elena Martinez
+20000411,Morgan,Carter,1004736,Customer Journey Basics (instructor-led),79,,00:20,
+20000411,Morgan,Carter,1004847,Service Metrics Foundations (video),100,11/17/2025 13:55,02:30,Elena Martinez
+20000411,Morgan,Carter,1004884,Complaint Handling Practice (video),100,01/08/2025 10:05,02:30,Priya Shah
+20000411,Morgan,Carter,1005883,Manager Check-In Guide (instructor-led),0,,01:45,
+20000548,Taylor,Diaz,1000037,Coaching Conversations for Managers (online),100,01/20/2026 14:55,02:00,Natalie Brooks
+20000548,Taylor,Diaz,1000074,Leading Through Change (instructor-led),100,07/07/2025 13:20,00:25,Natalie Brooks
+20000548,Taylor,Diaz,1000111,Delegation Essentials (instructor-led),100,07/27/2024 10:35,01:00,Natalie Brooks
+20000548,Taylor,Diaz,1000148,Performance Feedback Practice (online),100,07/21/2024 09:55,02:00,Priya Shah
+20000548,Taylor,Diaz,1000185,Strategic Thinking Foundations (video),100,11/22/2024 14:15,03:00,Elena Martinez
+20000548,Taylor,Diaz,1000222,Managing Hybrid Teams (self-study),100,01/10/2026 17:35,01:00,Natalie Brooks
+20000548,Taylor,Diaz,1000259,Manager Decision Making (Inactive 04/24/2026),44,,01:15,Elena Martinez
+20000548,Taylor,Diaz,1000296,Inclusive Leadership Habits (self-study),100,06/27/2025 12:25,00:40,Marcus Reed
+20000548,Taylor,Diaz,1000333,Executive Presence Basics (video),100,09/23/2024 11:40,00:50,Elena Martinez
+20000548,Taylor,Diaz,1000370,Conflict Resolution for Leaders (online),100,01/20/2025 09:10,00:15,Marcus Reed
+20000548,Taylor,Diaz,1000407,Talent Review Readiness (online),100,06/26/2024 15:00,00:20,Priya Shah
+20000548,Taylor,Diaz,1000444,Building Team Accountability (instructor-led),100,07/15/2025 11:30,03:00,Marcus Reed
+20000548,Taylor,Diaz,1000481,Leading Effective One-on-Ones (video),100,08/20/2024 15:00,00:40,Priya Shah
+20000548,Taylor,Diaz,1000518,Mentoring Emerging Leaders (instructor-led),100,07/22/2024 13:20,03:00,Elena Martinez
+20000548,Taylor,Diaz,1000555,Leadership Communication Lab (online),100,02/08/2025 13:05,02:30,Priya Shah
+20000548,Taylor,Diaz,1000629,Manager Onboarding Essentials (online),100,03/10/2025 11:35,00:35,Natalie Brooks
+20000548,Taylor,Diaz,1000814,Harassment Prevention (video),100,08/05/2024 10:05,00:20,Priya Shah
+20000548,Taylor,Diaz,1000888,Ethical Decision Making (online),100,02/15/2026 08:15,01:45,Elena Martinez
+20000548,Taylor,Diaz,1001406,Data Classification Basics (instructor-led),100,01/03/2026 14:10,02:30,Natalie Brooks
+20000548,Taylor,Diaz,1001628,Ransomware Awareness (online),100,11/26/2024 17:00,02:00,Priya Shah
+20000548,Taylor,Diaz,1001887,Travel Security Tips (video),100,02/21/2026 09:05,00:40,
+20000548,Taylor,Diaz,1002035,Stakeholder Mapping (instructor-led),88,,00:50,Marcus Reed
+20000548,Taylor,Diaz,1002072,Project Budget Tracking (self-study),0,,00:20,Priya Shah
+20000548,Taylor,Diaz,1002146,Waterfall Delivery Basics (self-study),100,04/04/2026 08:05,00:30,Priya Shah
+20000548,Taylor,Diaz,1002257,Retrospective Facilitation (instructor-led),100,01/08/2026 15:05,00:15,Priya Shah
+20000548,Taylor,Diaz,1002294,Dependency Management (self-study),0,,01:15,Priya Shah
+20000548,Taylor,Diaz,1002516,Delivery Metrics Basics (instructor-led),35,,00:20,Natalie Brooks
+20000548,Taylor,Diaz,1002701,Presentation Skills Basics (instructor-led),100,02/28/2026 13:50,00:20,Natalie Brooks
+20000548,Taylor,Diaz,1002960,Storytelling with Data (self-study),100,10/28/2025 10:50,00:50,Marcus Reed
+20000548,Taylor,Diaz,1003182,DEI Foundations (video),100,12/13/2025 15:35,03:00,Natalie Brooks
+20000548,Taylor,Diaz,1003256,Inclusive Hiring Practices (video),0,,01:15,Elena Martinez
+20000548,Taylor,Diaz,1003367,Allyship in Action (online),0,,02:00,Elena Martinez
+20000548,Taylor,Diaz,1003478,Equity in Talent Decisions (online),0,,00:45,Elena Martinez
+20000548,Taylor,Diaz,1003552,Microaggressions Awareness (online),71,,00:20,Elena Martinez
+20000548,Taylor,Diaz,1003589,Inclusive Meeting Design (instructor-led),30,,00:20,
+20000548,Taylor,Diaz,1003626,Diverse Team Collaboration (video),100,12/05/2025 08:30,01:30,Natalie Brooks
+20000548,Taylor,Diaz,1003700,Neurodiversity Awareness (Discontinued 04/27/2025),50,,00:45,Natalie Brooks
+20000548,Taylor,Diaz,1003737,Employee Resource Group Basics (instructor-led),0,,00:45,Elena Martinez
+20000548,Taylor,Diaz,1003811,Consultative Selling Basics (instructor-led),81,,02:30,Marcus Reed
+20000548,Taylor,Diaz,1003848,Pipeline Management Essentials (instructor-led),84,,01:45,Priya Shah
+20000548,Taylor,Diaz,1003996,Product Positioning Basics (video),0,,01:30,Natalie Brooks
+20000548,Taylor,Diaz,1004181,Renewal Conversation Skills (video),0,,02:00,Marcus Reed
+20000548,Taylor,Diaz,1004255,Sales Presentation Practice (instructor-led),55,,00:20,Elena Martinez
+20000548,Taylor,Diaz,1004292,Competitive Differentiation (instructor-led),0,,00:30,Elena Martinez
+20000548,Taylor,Diaz,1004366,Executive Buyer Alignment (video),16,,00:30,Natalie Brooks
+20000548,Taylor,Diaz,1004477,Service Recovery Basics (Discontinued 12/02/2025),12,,00:45,Marcus Reed
+20000548,Taylor,Diaz,1004514,Escalation Management (online),2,,00:25,Marcus Reed
+20000548,Taylor,Diaz,1004551,Customer Communication Skills (online),1,,00:35,Natalie Brooks
+20000548,Taylor,Diaz,1004699,De-Escalation Practice (video),0,,03:00,Marcus Reed
+20000548,Taylor,Diaz,1004736,Customer Journey Basics (instructor-led),79,,00:20,Priya Shah
+20000548,Taylor,Diaz,1004810,First Contact Resolution (video),44,,02:00,Elena Martinez
+20000548,Taylor,Diaz,1004847,Service Metrics Foundations (video),74,,02:30,Priya Shah
+20000548,Taylor,Diaz,1004884,Complaint Handling Practice (video),100,07/18/2025 10:20,02:30,Marcus Reed
+20000548,Taylor,Diaz,1004958,SLA Management Basics (instructor-led),0,,00:20,Priya Shah
+20000548,Taylor,Diaz,1004995,Support Team Collaboration (self-study),90,,00:15,Priya Shah
+20000685,Casey,Ellis,1000037,Coaching Conversations for Managers (online),100,06/07/2024 14:55,02:00,Priya Shah
+20000685,Casey,Ellis,1000074,Leading Through Change (instructor-led),100,09/15/2025 09:30,00:25,Elena Martinez
+20000685,Casey,Ellis,1000185,Strategic Thinking Foundations (video),0,,03:00,Priya Shah
+20000685,Casey,Ellis,1000296,Inclusive Leadership Habits (self-study),100,04/26/2026 12:15,00:40,Marcus Reed
+20000685,Casey,Ellis,1000370,Conflict Resolution for Leaders (online),100,02/27/2026 12:05,00:15,Elena Martinez
+20000685,Casey,Ellis,1000407,Talent Review Readiness (online),100,06/25/2024 09:20,00:20,Priya Shah
+20000685,Casey,Ellis,1000481,Leading Effective One-on-Ones (video),68,,00:40,Natalie Brooks
+20000685,Casey,Ellis,1000518,Mentoring Emerging Leaders (instructor-led),0,,03:00,Natalie Brooks
+20000685,Casey,Ellis,1000555,Leadership Communication Lab (online),100,09/16/2024 17:20,02:30,Natalie Brooks
+20000685,Casey,Ellis,1000629,Manager Onboarding Essentials (online),89,,00:35,Natalie Brooks
+20000685,Casey,Ellis,1000666,Code of Conduct Overview (Inactive 08/22/2025),42,,00:15,Priya Shah
+20000685,Casey,Ellis,1000703,Anti-Bribery Fundamentals (online),0,,00:30,Elena Martinez
+20000685,Casey,Ellis,1000851,Conflicts of Interest (online),0,,00:20,Priya Shah
+20000685,Casey,Ellis,1000925,Reporting Concerns Safely (video),0,,00:50,Priya Shah
+20000685,Casey,Ellis,1000999,Workplace Investigations Basics (online),66,,00:20,Marcus Reed
+20000685,Casey,Ellis,1001110,Compliance Scenario Workshop (online),84,,02:00,
+20000685,Casey,Ellis,1001221,Fair Competition Basics (instructor-led),0,,01:30,Elena Martinez
+20000685,Casey,Ellis,1001665,Secure File Sharing (self-study),100,03/29/2026 11:35,01:45,
+20000685,Casey,Ellis,1001924,Project Charter Fundamentals (instructor-led),54,,00:50,Elena Martinez
+20000685,Casey,Ellis,1001998,Risk Register Workshop (instructor-led),100,08/06/2024 16:40,01:00,
+20000685,Casey,Ellis,1002035,Stakeholder Mapping (instructor-led),100,04/23/2025 09:15,00:50,Priya Shah
+20000685,Casey,Ellis,1002072,Project Budget Tracking (self-study),0,,00:20,Marcus Reed
+20000685,Casey,Ellis,1002109,Sprint Review Facilitation (online),0,,00:30,Elena Martinez
+20000685,Casey,Ellis,1002146,Waterfall Delivery Basics (self-study),0,,00:30,Natalie Brooks
+20000685,Casey,Ellis,1002368,Change Control Basics (video),8,,00:30,Priya Shah
+20000685,Casey,Ellis,1002479,Project Governance Overview (online),65,,00:15,Natalie Brooks
+20000685,Casey,Ellis,1002553,Effective Meeting Facilitation (self-study),100,03/16/2025 14:05,01:45,Elena Martinez
+20000685,Casey,Ellis,1002590,Business Writing Essentials (online),100,05/11/2026 13:25,01:30,Priya Shah
+20000685,Casey,Ellis,1002627,Active Listening Practice (self-study),100,12/28/2024 17:05,00:15,Marcus Reed
+20000685,Casey,Ellis,1002664,Cross-Functional Collaboration (online),100,09/11/2025 16:45,00:30,Elena Martinez
+20000685,Casey,Ellis,1002701,Presentation Skills Basics (instructor-led),100,04/13/2026 08:30,00:20,Priya Shah
+20000685,Casey,Ellis,1002738,Influencing Without Authority (Inactive 03/23/2026),0,,02:30,Elena Martinez
+20000685,Casey,Ellis,1002775,Giving and Receiving Feedback (online),100,01/08/2026 14:45,00:40,
+20000685,Casey,Ellis,1002849,Difficult Conversations Practice (self-study),100,09/07/2024 08:20,00:30,Priya Shah
+20000685,Casey,Ellis,1002886,Stakeholder Communication (self-study),100,12/09/2024 17:40,00:35,Marcus Reed
+20000685,Casey,Ellis,1002923,Team Norms Workshop (instructor-led),100,08/31/2024 10:20,01:30,Elena Martinez
+20000685,Casey,Ellis,1002960,Storytelling with Data (self-study),100,05/14/2025 16:50,00:50,Natalie Brooks
+20000685,Casey,Ellis,1002997,Negotiation Foundations (instructor-led),100,05/11/2026 10:55,00:30,Elena Martinez
+20000685,Casey,Ellis,1003034,Communication Style Awareness (online),100,11/28/2025 15:05,01:00,Marcus Reed
+20000685,Casey,Ellis,1003071,Building Trust Remotely (instructor-led),100,04/18/2025 17:50,00:25,Marcus Reed
+20000685,Casey,Ellis,1003108,Email Productivity Basics (online),100,05/09/2026 12:15,01:45,Marcus Reed
+20000685,Casey,Ellis,1003145,Facilitation Practice Lab (self-study),100,07/19/2024 10:05,03:00,Priya Shah
+20000685,Casey,Ellis,1003626,Diverse Team Collaboration (video),100,08/03/2025 16:30,01:30,
+20000685,Casey,Ellis,1003848,Pipeline Management Essentials (instructor-led),100,05/06/2026 17:05,01:45,Marcus Reed
+20000685,Casey,Ellis,1004107,CRM Hygiene Basics (video),100,01/25/2026 15:45,01:45,Natalie Brooks
+20000685,Casey,Ellis,1004218,Territory Planning Lab (online),100,05/12/2026 10:35,02:30,Marcus Reed
+20000685,Casey,Ellis,1004440,Customer Empathy Essentials (online),100,10/27/2025 10:40,00:50,
+20000685,Casey,Ellis,1004477,Service Recovery Basics (Discontinued 12/02/2025),0,,00:45,Natalie Brooks
+20000685,Casey,Ellis,1004588,Case Documentation Standards (instructor-led),98,,00:50,Elena Martinez
+20000685,Casey,Ellis,1004736,Customer Journey Basics (instructor-led),86,,00:20,Priya Shah
+20000685,Casey,Ellis,1004773,Knowledge Base Authoring (online),31,,00:50,Natalie Brooks
+20000685,Casey,Ellis,1004847,Service Metrics Foundations (video),100,11/11/2025 14:20,02:30,Marcus Reed
+20000685,Casey,Ellis,1004921,Customer Feedback Review (online),0,,01:00,Marcus Reed
+20000685,Casey,Ellis,1004958,SLA Management Basics (instructor-led),95,,00:20,Natalie Brooks
+20000685,Casey,Ellis,1005032,Customer Success Handoff (Inactive 06/26/2024),83,,01:00,Elena Martinez
+20000822,Riley,Foster,1000037,Coaching Conversations for Managers (online),100,11/04/2025 16:15,02:00,Elena Martinez
+20000822,Riley,Foster,1000074,Leading Through Change (instructor-led),100,11/15/2024 13:50,00:25,Priya Shah
+20000822,Riley,Foster,1000148,Performance Feedback Practice (online),29,,02:00,Elena Martinez
+20000822,Riley,Foster,1000222,Managing Hybrid Teams (self-study),92,,01:00,Marcus Reed
+20000822,Riley,Foster,1000296,Inclusive Leadership Habits (self-study),100,09/15/2025 08:35,00:40,
+20000822,Riley,Foster,1000333,Executive Presence Basics (video),48,,00:50,Priya Shah
+20000822,Riley,Foster,1000370,Conflict Resolution for Leaders (online),100,08/07/2025 12:25,00:15,Priya Shah
+20000822,Riley,Foster,1000407,Talent Review Readiness (online),100,02/02/2025 13:45,00:20,Marcus Reed
+20000822,Riley,Foster,1000481,Leading Effective One-on-Ones (video),93,,00:40,Natalie Brooks
+20000822,Riley,Foster,1000555,Leadership Communication Lab (online),100,05/21/2026 08:00,02:30,Natalie Brooks
+20000822,Riley,Foster,1000629,Manager Onboarding Essentials (online),0,,00:35,Elena Martinez
+20000822,Riley,Foster,1000666,Code of Conduct Overview (Inactive 08/22/2025),2,,00:15,Elena Martinez
+20000822,Riley,Foster,1000740,Privacy and Data Handling (video),73,,03:00,Natalie Brooks
+20000822,Riley,Foster,1000777,Records Retention Basics (video),0,,01:15,Priya Shah
+20000822,Riley,Foster,1000925,Reporting Concerns Safely (video),0,,00:50,Priya Shah
+20000822,Riley,Foster,1000962,Global Trade Compliance (online),67,,02:30,Elena Martinez
+20000822,Riley,Foster,1000999,Workplace Investigations Basics (online),60,,00:20,
+20000822,Riley,Foster,1001036,Policy Acknowledgement Review (online),0,,02:00,Marcus Reed
+20000822,Riley,Foster,1001184,Responsible Business Conduct (instructor-led),0,,00:25,Marcus Reed
+20000822,Riley,Foster,1001221,Fair Competition Basics (instructor-led),38,,01:30,Natalie Brooks
+20000822,Riley,Foster,1001258,Regulatory Audit Readiness (video),1,,00:50,Natalie Brooks
+20000822,Riley,Foster,1001665,Secure File Sharing (self-study),100,07/21/2024 14:15,01:45,Natalie Brooks
+20000822,Riley,Foster,1001924,Project Charter Fundamentals (instructor-led),41,,00:50,Natalie Brooks
+20000822,Riley,Foster,1001998,Risk Register Workshop (instructor-led),100,04/06/2026 14:05,01:00,Priya Shah
+20000822,Riley,Foster,1002035,Stakeholder Mapping (instructor-led),100,06/28/2025 11:30,00:50,Natalie Brooks
+20000822,Riley,Foster,1002072,Project Budget Tracking (self-study),26,,00:20,Marcus Reed
+20000822,Riley,Foster,1002109,Sprint Review Facilitation (online),0,,00:30,Marcus Reed
+20000822,Riley,Foster,1002146,Waterfall Delivery Basics (self-study),0,,00:30,Elena Martinez
+20000822,Riley,Foster,1002183,Project Status Reporting (video),30,,00:20,Elena Martinez
+20000822,Riley,Foster,1002257,Retrospective Facilitation (instructor-led),20,,00:15,Elena Martinez
+20000822,Riley,Foster,1002294,Dependency Management (self-study),35,,01:15,Elena Martinez
+20000822,Riley,Foster,1002331,Project Closeout Practices (online),0,,01:00,Priya Shah
+20000822,Riley,Foster,1002442,Milestone Planning Essentials (instructor-led),0,,00:30,
+20000822,Riley,Foster,1002516,Delivery Metrics Basics (instructor-led),0,,00:20,Elena Martinez
+20000822,Riley,Foster,1002886,Stakeholder Communication (self-study),100,05/16/2025 14:10,00:35,Natalie Brooks
+20000822,Riley,Foster,1003071,Building Trust Remotely (instructor-led),100,07/16/2025 17:15,00:25,Marcus Reed
+20000822,Riley,Foster,1003219,Unconscious Bias Awareness (online),98,,01:15,Marcus Reed
+20000822,Riley,Foster,1003293,Psychological Safety Basics (self-study),0,,00:50,Elena Martinez
+20000822,Riley,Foster,1003367,Allyship in Action (online),16,,02:00,
+20000822,Riley,Foster,1003404,Accessibility at Work (video),0,,00:50,Elena Martinez
+20000822,Riley,Foster,1003441,Inclusive Language Practice (self-study),0,,02:00,Elena Martinez
+20000822,Riley,Foster,1003552,Microaggressions Awareness (online),0,,00:20,Marcus Reed
+20000822,Riley,Foster,1003589,Inclusive Meeting Design (instructor-led),0,,00:20,Elena Martinez
+20000822,Riley,Foster,1003626,Diverse Team Collaboration (video),100,12/25/2024 08:10,01:30,Natalie Brooks
+20000822,Riley,Foster,1003663,Respectful Workplace Review (online),64,,00:45,Marcus Reed
+20000822,Riley,Foster,1003700,Neurodiversity Awareness (Discontinued 04/27/2025),4,,00:45,Natalie Brooks
+20000822,Riley,Foster,1003737,Employee Resource Group Basics (instructor-led),0,,00:45,Marcus Reed
+20000822,Riley,Foster,1003774,Inclusive Feedback Practices (online),0,,00:50,Elena Martinez
+20000822,Riley,Foster,1003848,Pipeline Management Essentials (instructor-led),100,03/05/2026 17:25,01:45,Marcus Reed
+20000822,Riley,Foster,1004107,CRM Hygiene Basics (video),100,06/12/2024 08:25,01:45,Priya Shah
+20000822,Riley,Foster,1004218,Territory Planning Lab (online),100,07/19/2024 14:55,02:30,Marcus Reed
+20000822,Riley,Foster,1004292,Competitive Differentiation (instructor-led),53,,00:30,Priya Shah
+20000822,Riley,Foster,1004440,Customer Empathy Essentials (online),100,02/24/2026 16:35,00:50,Elena Martinez
+20000822,Riley,Foster,1004847,Service Metrics Foundations (video),100,11/21/2025 08:40,02:30,Priya Shah
+20000822,Riley,Foster,1005439,Data Governance Basics (online),1,,02:30,Natalie Brooks
+20000959,Quinn,Garcia,1000037,Coaching Conversations for Managers (online),100,04/13/2025 16:00,02:00,Marcus Reed
+20000959,Quinn,Garcia,1000444,Building Team Accountability (instructor-led),100,07/30/2024 12:35,03:00,
+20000959,Quinn,Garcia,1000814,Harassment Prevention (video),100,02/18/2026 13:05,00:20,Elena Martinez
+20000959,Quinn,Garcia,1000888,Ethical Decision Making (online),100,08/16/2024 16:00,01:45,Priya Shah
+20000959,Quinn,Garcia,1001295,Phishing Awareness Refresher (online),100,02/14/2025 16:55,01:00,Priya Shah
+20000959,Quinn,Garcia,1001332,Password Security Essentials (instructor-led),100,09/22/2025 14:35,00:25,
+20000959,Quinn,Garcia,1001406,Data Classification Basics (instructor-led),100,04/08/2025 13:50,02:30,Priya Shah
+20000959,Quinn,Garcia,1001443,Mobile Device Security (online),100,02/04/2025 09:10,01:15,Priya Shah
+20000959,Quinn,Garcia,1001480,Social Engineering Defense (self-study),100,08/10/2025 09:00,00:45,
+20000959,Quinn,Garcia,1001517,Incident Reporting Basics (self-study),100,01/31/2025 13:30,00:30,Natalie Brooks
+20000959,Quinn,Garcia,1001554,Cloud Security Foundations (online),100,01/20/2026 16:25,03:00,Natalie Brooks
+20000959,Quinn,Garcia,1001591,Multi-Factor Authentication (self-study),100,10/23/2025 15:20,01:00,Natalie Brooks
+20000959,Quinn,Garcia,1001628,Ransomware Awareness (online),100,04/27/2025 14:10,02:00,Priya Shah
+20000959,Quinn,Garcia,1001665,Secure File Sharing (self-study),100,02/26/2026 17:05,01:45,Priya Shah
+20000959,Quinn,Garcia,1001739,Security for Managers (video),100,02/03/2025 12:05,00:35,Priya Shah
+20000959,Quinn,Garcia,1001776,Safe Browsing Practices (video),100,03/08/2026 11:10,00:45,Natalie Brooks
+20000959,Quinn,Garcia,1001813,Endpoint Protection Overview (instructor-led),100,04/10/2026 15:00,01:30,Marcus Reed
+20000959,Quinn,Garcia,1001850,Cybersecurity Annual Review (online),100,08/27/2024 17:15,01:30,Elena Martinez
+20000959,Quinn,Garcia,1001887,Travel Security Tips (video),100,10/08/2025 10:15,00:40,Marcus Reed
+20000959,Quinn,Garcia,1001998,Risk Register Workshop (instructor-led),100,01/19/2026 08:00,01:00,Natalie Brooks
+20000959,Quinn,Garcia,1002035,Stakeholder Mapping (instructor-led),100,10/19/2024 08:30,00:50,Priya Shah
+20000959,Quinn,Garcia,1002146,Waterfall Delivery Basics (self-study),100,07/29/2025 12:25,00:30,Priya Shah
+20000959,Quinn,Garcia,1002257,Retrospective Facilitation (instructor-led),100,11/26/2025 08:30,00:15,Priya Shah
+20000959,Quinn,Garcia,1002553,Effective Meeting Facilitation (self-study),100,03/28/2025 16:35,01:45,Priya Shah
+20000959,Quinn,Garcia,1002590,Business Writing Essentials (online),100,04/16/2025 13:25,01:30,Elena Martinez
+20000959,Quinn,Garcia,1002627,Active Listening Practice (self-study),100,07/14/2024 10:15,00:15,Marcus Reed
+20000959,Quinn,Garcia,1002664,Cross-Functional Collaboration (online),100,02/06/2026 11:40,00:30,Natalie Brooks
+20000959,Quinn,Garcia,1002701,Presentation Skills Basics (instructor-led),100,07/31/2024 15:10,00:20,Priya Shah
+20000959,Quinn,Garcia,1002775,Giving and Receiving Feedback (online),100,02/14/2025 12:15,00:40,Marcus Reed
+20000959,Quinn,Garcia,1002849,Difficult Conversations Practice (self-study),100,04/14/2025 15:00,00:30,
+20000959,Quinn,Garcia,1002886,Stakeholder Communication (self-study),100,09/28/2025 16:30,00:35,Natalie Brooks
+20000959,Quinn,Garcia,1002923,Team Norms Workshop (instructor-led),100,04/27/2025 13:35,01:30,Natalie Brooks
+20000959,Quinn,Garcia,1002960,Storytelling with Data (self-study),100,02/20/2026 10:50,00:50,Elena Martinez
+20000959,Quinn,Garcia,1002997,Negotiation Foundations (instructor-led),100,04/26/2025 10:30,00:30,Marcus Reed
+20000959,Quinn,Garcia,1003034,Communication Style Awareness (online),100,11/06/2024 11:05,01:00,Elena Martinez
+20000959,Quinn,Garcia,1003071,Building Trust Remotely (instructor-led),100,12/22/2024 10:50,00:25,Natalie Brooks
+20000959,Quinn,Garcia,1003108,Email Productivity Basics (online),100,05/01/2026 09:15,01:45,Elena Martinez
+20000959,Quinn,Garcia,1003145,Facilitation Practice Lab (self-study),100,03/22/2026 09:20,03:00,Priya Shah
+20000959,Quinn,Garcia,1003182,DEI Foundations (video),100,02/04/2026 10:35,03:00,Elena Martinez
+20000959,Quinn,Garcia,1003626,Diverse Team Collaboration (video),100,12/02/2025 17:30,01:30,Natalie Brooks
+20000959,Quinn,Garcia,1003811,Consultative Selling Basics (instructor-led),100,05/26/2025 11:10,02:30,Priya Shah
+20000959,Quinn,Garcia,1003848,Pipeline Management Essentials (instructor-led),100,08/16/2024 09:45,01:45,
+20000959,Quinn,Garcia,1003922,Handling Objections (instructor-led),100,02/19/2026 11:25,01:30,Priya Shah
+20000959,Quinn,Garcia,1003959,Account Planning Foundations (online),100,08/15/2025 12:35,01:30,Priya Shah
+20000959,Quinn,Garcia,1003996,Product Positioning Basics (video),100,06/29/2024 12:20,01:30,Marcus Reed
+20000959,Quinn,Garcia,1004033,Sales Forecasting Review (online),100,07/16/2025 17:00,00:20,Priya Shah
+20000959,Quinn,Garcia,1004070,Negotiation for Sellers (Inactive 02/21/2026),0,,00:45,Marcus Reed
+20000959,Quinn,Garcia,1004107,CRM Hygiene Basics (video),100,09/30/2024 12:05,01:45,
+20000959,Quinn,Garcia,1004181,Renewal Conversation Skills (video),100,04/15/2025 09:45,02:00,Marcus Reed
+20000959,Quinn,Garcia,1004218,Territory Planning Lab (online),100,10/31/2025 16:15,02:30,Priya Shah
+20000959,Quinn,Garcia,1004329,Prospecting Fundamentals (video),100,10/02/2024 09:10,00:30,Elena Martinez
+20000959,Quinn,Garcia,1004403,Opportunity Qualification (instructor-led),100,12/22/2025 08:45,01:00,Natalie Brooks
+20000959,Quinn,Garcia,1004440,Customer Empathy Essentials (online),100,03/23/2026 10:55,00:50,Natalie Brooks
+20000959,Quinn,Garcia,1004847,Service Metrics Foundations (video),100,06/05/2024 13:35,02:30,Priya Shah
+20000959,Quinn,Garcia,1004884,Complaint Handling Practice (video),100,10/15/2025 13:10,02:30,Priya Shah
+20001096,Cameron,Hayes,1000037,Coaching Conversations for Managers (online),100,12/23/2025 17:55,02:00,Marcus Reed
+20001096,Cameron,Hayes,1000074,Leading Through Change (instructor-led),100,07/14/2024 14:45,00:25,Marcus Reed
+20001096,Cameron,Hayes,1000111,Delegation Essentials (instructor-led),100,01/10/2025 13:10,01:00,Marcus Reed
+20001096,Cameron,Hayes,1000148,Performance Feedback Practice (online),100,05/29/2024 16:55,02:00,Priya Shah
+20001096,Cameron,Hayes,1000185,Strategic Thinking Foundations (video),100,06/05/2024 13:45,03:00,Marcus Reed
+20001096,Cameron,Hayes,1000222,Managing Hybrid Teams (self-study),100,03/27/2026 11:45,01:00,Elena Martinez
+20001096,Cameron,Hayes,1000296,Inclusive Leadership Habits (self-study),100,11/25/2025 15:00,00:40,Priya Shah
+20001096,Cameron,Hayes,1000333,Executive Presence Basics (video),100,01/04/2025 16:20,00:50,
+20001096,Cameron,Hayes,1000370,Conflict Resolution for Leaders (online),100,10/07/2025 17:10,00:15,Marcus Reed
+20001096,Cameron,Hayes,1000407,Talent Review Readiness (online),100,05/23/2026 13:45,00:20,Marcus Reed
+20001096,Cameron,Hayes,1000481,Leading Effective One-on-Ones (video),100,10/29/2025 10:25,00:40,Priya Shah
+20001096,Cameron,Hayes,1000518,Mentoring Emerging Leaders (instructor-led),100,02/09/2026 13:20,03:00,Priya Shah
+20001096,Cameron,Hayes,1000555,Leadership Communication Lab (online),100,09/25/2024 08:55,02:30,Natalie Brooks
+20001096,Cameron,Hayes,1000629,Manager Onboarding Essentials (online),100,12/29/2025 17:15,00:35,Priya Shah
+20001096,Cameron,Hayes,1001961,Agile Planning Basics (instructor-led),0,,03:00,
+20001096,Cameron,Hayes,1002035,Stakeholder Mapping (instructor-led),0,,00:50,Marcus Reed
+20001096,Cameron,Hayes,1002146,Waterfall Delivery Basics (self-study),92,,00:30,Natalie Brooks
+20001096,Cameron,Hayes,1002183,Project Status Reporting (video),91,,00:20,Marcus Reed
+20001096,Cameron,Hayes,1002294,Dependency Management (self-study),48,,01:15,
+20001096,Cameron,Hayes,1002331,Project Closeout Practices (online),0,,01:00,Marcus Reed
+20001096,Cameron,Hayes,1002442,Milestone Planning Essentials (instructor-led),68,,00:30,Marcus Reed
+20001096,Cameron,Hayes,1002479,Project Governance Overview (online),0,,00:15,Elena Martinez
+20001096,Cameron,Hayes,1002553,Effective Meeting Facilitation (self-study),79,,01:45,Priya Shah
+20001096,Cameron,Hayes,1002590,Business Writing Essentials (online),0,,01:30,Marcus Reed
+20001096,Cameron,Hayes,1002664,Cross-Functional Collaboration (online),0,,00:30,Elena Martinez
+20001096,Cameron,Hayes,1002738,Influencing Without Authority (Inactive 03/23/2026),42,,02:30,Natalie Brooks
+20001096,Cameron,Hayes,1002775,Giving and Receiving Feedback (online),23,,00:40,Natalie Brooks
+20001096,Cameron,Hayes,1002849,Difficult Conversations Practice (self-study),94,,00:30,Natalie Brooks
+20001096,Cameron,Hayes,1002886,Stakeholder Communication (self-study),3,,00:35,
+20001096,Cameron,Hayes,1003071,Building Trust Remotely (instructor-led),62,,00:25,Natalie Brooks
+20001096,Cameron,Hayes,1003108,Email Productivity Basics (online),0,,01:45,
+20001096,Cameron,Hayes,1003145,Facilitation Practice Lab (self-study),46,,03:00,Marcus Reed
+20001096,Cameron,Hayes,1003811,Consultative Selling Basics (instructor-led),0,,02:30,Priya Shah
+20001096,Cameron,Hayes,1003848,Pipeline Management Essentials (instructor-led),18,,01:45,Priya Shah
+20001096,Cameron,Hayes,1003922,Handling Objections (instructor-led),8,,01:30,Natalie Brooks
+20001096,Cameron,Hayes,1003959,Account Planning Foundations (online),56,,01:30,Marcus Reed
+20001096,Cameron,Hayes,1003996,Product Positioning Basics (video),100,12/29/2025 09:40,01:30,Priya Shah
+20001096,Cameron,Hayes,1004070,Negotiation for Sellers (Inactive 02/21/2026),21,,00:45,Marcus Reed
+20001096,Cameron,Hayes,1004181,Renewal Conversation Skills (video),0,,02:00,Marcus Reed
+20001096,Cameron,Hayes,1004218,Territory Planning Lab (online),0,,02:30,Natalie Brooks
+20001096,Cameron,Hayes,1004255,Sales Presentation Practice (instructor-led),42,,00:20,Natalie Brooks
+20001096,Cameron,Hayes,1004292,Competitive Differentiation (instructor-led),10,,00:30,Priya Shah
+20001096,Cameron,Hayes,1004329,Prospecting Fundamentals (video),0,,00:30,
+20001096,Cameron,Hayes,1004403,Opportunity Qualification (instructor-led),0,,01:00,Priya Shah
+20001096,Cameron,Hayes,1004440,Customer Empathy Essentials (online),73,,00:50,
+20001096,Cameron,Hayes,1004477,Service Recovery Basics (Discontinued 12/02/2025),47,,00:45,Marcus Reed
+20001096,Cameron,Hayes,1004551,Customer Communication Skills (online),0,,00:35,Elena Martinez
+20001096,Cameron,Hayes,1004699,De-Escalation Practice (video),0,,03:00,Natalie Brooks
+20001096,Cameron,Hayes,1004736,Customer Journey Basics (instructor-led),82,,00:20,Natalie Brooks
+20001096,Cameron,Hayes,1004773,Knowledge Base Authoring (online),0,,00:50,
+20001096,Cameron,Hayes,1004810,First Contact Resolution (video),0,,02:00,Natalie Brooks
+20001096,Cameron,Hayes,1004847,Service Metrics Foundations (video),12,,02:30,Marcus Reed
+20001096,Cameron,Hayes,1004884,Complaint Handling Practice (video),3,,02:30,Marcus Reed
+20001096,Cameron,Hayes,1004958,SLA Management Basics (instructor-led),0,,00:20,Natalie Brooks
+20001096,Cameron,Hayes,1005032,Customer Success Handoff (Inactive 06/26/2024),29,,01:00,Natalie Brooks
+20001233,Drew,Iverson,1000037,Coaching Conversations for Managers (online),100,02/17/2026 13:45,02:00,Marcus Reed
+20001233,Drew,Iverson,1000222,Managing Hybrid Teams (self-study),0,,01:00,Marcus Reed
+20001233,Drew,Iverson,1000666,Code of Conduct Overview (Inactive 08/22/2025),0,,00:15,Elena Martinez
+20001233,Drew,Iverson,1000814,Harassment Prevention (video),0,,00:20,Elena Martinez
+20001233,Drew,Iverson,1000851,Conflicts of Interest (online),4,,00:20,Marcus Reed
+20001233,Drew,Iverson,1000999,Workplace Investigations Basics (online),13,,00:20,Marcus Reed
+20001233,Drew,Iverson,1001073,Third Party Risk Awareness (self-study),0,,01:00,Priya Shah
+20001233,Drew,Iverson,1001110,Compliance Scenario Workshop (online),33,,02:00,Priya Shah
+20001233,Drew,Iverson,1001665,Secure File Sharing (self-study),100,02/22/2026 13:35,01:45,
+20001233,Drew,Iverson,1001776,Safe Browsing Practices (video),70,,00:45,Marcus Reed
+20001233,Drew,Iverson,1001998,Risk Register Workshop (instructor-led),100,12/14/2025 08:05,01:00,Natalie Brooks
+20001233,Drew,Iverson,1002035,Stakeholder Mapping (instructor-led),100,02/02/2026 08:00,00:50,Elena Martinez
+20001233,Drew,Iverson,1002553,Effective Meeting Facilitation (self-study),100,07/29/2025 09:35,01:45,Elena Martinez
+20001233,Drew,Iverson,1002590,Business Writing Essentials (online),100,03/20/2025 10:30,01:30,Marcus Reed
+20001233,Drew,Iverson,1002627,Active Listening Practice (self-study),100,04/23/2025 15:55,00:15,Priya Shah
+20001233,Drew,Iverson,1002664,Cross-Functional Collaboration (online),100,09/04/2024 11:50,00:30,Natalie Brooks
+20001233,Drew,Iverson,1002701,Presentation Skills Basics (instructor-led),100,08/08/2025 12:15,00:20,
+20001233,Drew,Iverson,1002775,Giving and Receiving Feedback (online),100,01/04/2025 14:25,00:40,Priya Shah
+20001233,Drew,Iverson,1002849,Difficult Conversations Practice (self-study),100,11/07/2024 15:10,00:30,Marcus Reed
+20001233,Drew,Iverson,1002886,Stakeholder Communication (self-study),100,12/30/2025 13:55,00:35,Priya Shah
+20001233,Drew,Iverson,1002923,Team Norms Workshop (instructor-led),100,05/09/2025 14:25,01:30,Natalie Brooks
+20001233,Drew,Iverson,1002960,Storytelling with Data (self-study),100,08/29/2025 09:05,00:50,
+20001233,Drew,Iverson,1002997,Negotiation Foundations (instructor-led),100,01/26/2025 15:50,00:30,Marcus Reed
+20001233,Drew,Iverson,1003034,Communication Style Awareness (online),100,04/22/2026 14:50,01:00,Priya Shah
+20001233,Drew,Iverson,1003071,Building Trust Remotely (instructor-led),100,05/12/2026 12:15,00:25,Natalie Brooks
+20001233,Drew,Iverson,1003108,Email Productivity Basics (online),100,11/16/2024 12:50,01:45,Priya Shah
+20001233,Drew,Iverson,1003145,Facilitation Practice Lab (self-study),100,01/25/2026 12:30,03:00,Natalie Brooks
+20001233,Drew,Iverson,1003219,Unconscious Bias Awareness (online),0,,01:15,Priya Shah
+20001233,Drew,Iverson,1003256,Inclusive Hiring Practices (video),13,,01:15,Natalie Brooks
+20001233,Drew,Iverson,1003367,Allyship in Action (online),0,,02:00,Elena Martinez
+20001233,Drew,Iverson,1003404,Accessibility at Work (video),26,,00:50,Natalie Brooks
+20001233,Drew,Iverson,1003441,Inclusive Language Practice (self-study),0,,02:00,Marcus Reed
+20001233,Drew,Iverson,1003478,Equity in Talent Decisions (online),82,,00:45,
+20001233,Drew,Iverson,1003626,Diverse Team Collaboration (video),100,04/03/2026 14:45,01:30,Priya Shah
+20001233,Drew,Iverson,1003700,Neurodiversity Awareness (Discontinued 04/27/2025),100,12/06/2025 17:30,00:45,Natalie Brooks
+20001233,Drew,Iverson,1003737,Employee Resource Group Basics (instructor-led),22,,00:45,Priya Shah
+20001233,Drew,Iverson,1003811,Consultative Selling Basics (instructor-led),100,03/29/2026 13:00,02:30,
+20001233,Drew,Iverson,1003848,Pipeline Management Essentials (instructor-led),100,06/18/2025 11:15,01:45,Marcus Reed
+20001233,Drew,Iverson,1003885,Discovery Call Practice (instructor-led),100,06/30/2025 10:50,00:15,Elena Martinez
+20001233,Drew,Iverson,1003922,Handling Objections (instructor-led),100,06/07/2025 10:30,01:30,Elena Martinez
+20001233,Drew,Iverson,1003959,Account Planning Foundations (online),100,03/12/2025 09:20,01:30,Elena Martinez
+20001233,Drew,Iverson,1003996,Product Positioning Basics (video),100,12/10/2025 09:40,01:30,Priya Shah
+20001233,Drew,Iverson,1004033,Sales Forecasting Review (online),100,07/26/2025 08:25,00:20,Priya Shah
+20001233,Drew,Iverson,1004107,CRM Hygiene Basics (video),100,03/30/2025 16:55,01:45,Marcus Reed
+20001233,Drew,Iverson,1004144,Customer Value Messaging (self-study),100,08/25/2025 09:50,00:40,Priya Shah
+20001233,Drew,Iverson,1004181,Renewal Conversation Skills (video),100,09/10/2025 09:25,02:00,Natalie Brooks
+20001233,Drew,Iverson,1004218,Territory Planning Lab (online),100,11/12/2024 14:10,02:30,Natalie Brooks
+20001233,Drew,Iverson,1004255,Sales Presentation Practice (instructor-led),100,02/15/2025 09:00,00:20,Natalie Brooks
+20001233,Drew,Iverson,1004292,Competitive Differentiation (instructor-led),100,09/02/2024 15:55,00:30,Marcus Reed
+20001233,Drew,Iverson,1004329,Prospecting Fundamentals (video),100,05/04/2025 09:35,00:30,Marcus Reed
+20001233,Drew,Iverson,1004366,Executive Buyer Alignment (video),100,10/09/2024 11:10,00:30,Elena Martinez
+20001233,Drew,Iverson,1004403,Opportunity Qualification (instructor-led),100,07/15/2024 17:35,01:00,
+20001233,Drew,Iverson,1004440,Customer Empathy Essentials (online),100,10/21/2024 09:35,00:50,Elena Martinez
+20001233,Drew,Iverson,1004736,Customer Journey Basics (instructor-led),27,,00:20,Priya Shah
+20001233,Drew,Iverson,1004847,Service Metrics Foundations (video),100,03/05/2026 11:25,02:30,Marcus Reed
+20001370,Emerson,Johnson,1000444,Building Team Accountability (instructor-led),100,09/29/2024 16:30,03:00,Natalie Brooks
+20001370,Emerson,Johnson,1000666,Code of Conduct Overview (Inactive 08/22/2025),13,,00:15,Natalie Brooks
+20001370,Emerson,Johnson,1000703,Anti-Bribery Fundamentals (online),0,,00:30,Elena Martinez
+20001370,Emerson,Johnson,1000740,Privacy and Data Handling (video),0,,03:00,Priya Shah
+20001370,Emerson,Johnson,1000814,Harassment Prevention (video),100,01/22/2025 12:25,00:20,Priya Shah
+20001370,Emerson,Johnson,1000851,Conflicts of Interest (online),2,,00:20,Marcus Reed
+20001370,Emerson,Johnson,1000888,Ethical Decision Making (online),100,10/20/2024 17:45,01:45,Natalie Brooks
+20001370,Emerson,Johnson,1000925,Reporting Concerns Safely (video),36,,00:50,
+20001370,Emerson,Johnson,1001036,Policy Acknowledgement Review (online),12,,02:00,Natalie Brooks
+20001370,Emerson,Johnson,1001110,Compliance Scenario Workshop (online),0,,02:00,Priya Shah
+20001370,Emerson,Johnson,1001184,Responsible Business Conduct (instructor-led),67,,00:25,Elena Martinez
+20001370,Emerson,Johnson,1001221,Fair Competition Basics (instructor-led),37,,01:30,Marcus Reed
+20001370,Emerson,Johnson,1001258,Regulatory Audit Readiness (video),3,,00:50,Priya Shah
+20001370,Emerson,Johnson,1001295,Phishing Awareness Refresher (online),100,04/06/2025 10:45,01:00,Marcus Reed
+20001370,Emerson,Johnson,1001332,Password Security Essentials (instructor-led),100,02/10/2026 09:45,00:25,Elena Martinez
+20001370,Emerson,Johnson,1001369,Secure Remote Work (Inactive 07/27/2025),0,,01:00,Marcus Reed
+20001370,Emerson,Johnson,1001406,Data Classification Basics (instructor-led),100,09/22/2025 08:55,02:30,
+20001370,Emerson,Johnson,1001443,Mobile Device Security (online),100,09/07/2024 14:00,01:15,Marcus Reed
+20001370,Emerson,Johnson,1001480,Social Engineering Defense (self-study),100,07/21/2025 09:30,00:45,Priya Shah
+20001370,Emerson,Johnson,1001517,Incident Reporting Basics (self-study),100,06/05/2025 14:20,00:30,Marcus Reed
+20001370,Emerson,Johnson,1001554,Cloud Security Foundations (online),100,04/10/2026 14:05,03:00,Natalie Brooks
+20001370,Emerson,Johnson,1001591,Multi-Factor Authentication (self-study),100,06/23/2024 14:15,01:00,Elena Martinez
+20001370,Emerson,Johnson,1001628,Ransomware Awareness (online),100,06/12/2025 12:20,02:00,Elena Martinez
+20001370,Emerson,Johnson,1001665,Secure File Sharing (self-study),100,04/18/2026 16:45,01:45,Marcus Reed
+20001370,Emerson,Johnson,1001702,Identity Protection Basics (Discontinued 10/01/2025),0,,01:45,Priya Shah
+20001370,Emerson,Johnson,1001739,Security for Managers (video),100,04/26/2025 15:45,00:35,Natalie Brooks
+20001370,Emerson,Johnson,1001776,Safe Browsing Practices (video),100,01/20/2026 15:10,00:45,Natalie Brooks
+20001370,Emerson,Johnson,1001813,Endpoint Protection Overview (instructor-led),100,11/04/2024 13:20,01:30,Priya Shah
+20001370,Emerson,Johnson,1001850,Cybersecurity Annual Review (online),100,01/28/2026 14:10,01:30,Priya Shah
+20001370,Emerson,Johnson,1001887,Travel Security Tips (video),100,04/13/2025 13:55,00:40,Marcus Reed
+20001370,Emerson,Johnson,1002146,Waterfall Delivery Basics (self-study),100,10/15/2024 17:10,00:30,
+20001370,Emerson,Johnson,1002257,Retrospective Facilitation (instructor-led),100,09/07/2024 15:00,00:15,Marcus Reed
+20001370,Emerson,Johnson,1002331,Project Closeout Practices (online),0,,01:00,Natalie Brooks
+20001370,Emerson,Johnson,1002701,Presentation Skills Basics (instructor-led),100,04/21/2025 16:30,00:20,Elena Martinez
+20001370,Emerson,Johnson,1002960,Storytelling with Data (self-study),100,08/19/2024 10:45,00:50,Natalie Brooks
+20001370,Emerson,Johnson,1003182,DEI Foundations (video),100,10/19/2025 11:10,03:00,Priya Shah
+20001370,Emerson,Johnson,1003219,Unconscious Bias Awareness (online),63,,01:15,Natalie Brooks
+20001370,Emerson,Johnson,1003256,Inclusive Hiring Practices (video),80,,01:15,Elena Martinez
+20001370,Emerson,Johnson,1003367,Allyship in Action (online),67,,02:00,Priya Shah
+20001370,Emerson,Johnson,1003404,Accessibility at Work (video),90,,00:50,Priya Shah
+20001370,Emerson,Johnson,1003589,Inclusive Meeting Design (instructor-led),36,,00:20,Elena Martinez
+20001370,Emerson,Johnson,1003663,Respectful Workplace Review (online),0,,00:45,Elena Martinez
+20001370,Emerson,Johnson,1003700,Neurodiversity Awareness (Discontinued 04/27/2025),0,,00:45,Natalie Brooks
+20001370,Emerson,Johnson,1003737,Employee Resource Group Basics (instructor-led),90,,00:45,Natalie Brooks
+20001370,Emerson,Johnson,1003811,Consultative Selling Basics (instructor-led),0,,02:30,Elena Martinez
+20001370,Emerson,Johnson,1003885,Discovery Call Practice (instructor-led),92,,00:15,Marcus Reed
+20001370,Emerson,Johnson,1003959,Account Planning Foundations (online),59,,01:30,Natalie Brooks
+20001370,Emerson,Johnson,1004070,Negotiation for Sellers (Inactive 02/21/2026),0,,00:45,
+20001370,Emerson,Johnson,1004144,Customer Value Messaging (self-study),19,,00:40,Natalie Brooks
+20001370,Emerson,Johnson,1004181,Renewal Conversation Skills (video),69,,02:00,Elena Martinez
+20001370,Emerson,Johnson,1004255,Sales Presentation Practice (instructor-led),0,,00:20,Natalie Brooks
+20001370,Emerson,Johnson,1004292,Competitive Differentiation (instructor-led),23,,00:30,Elena Martinez
+20001370,Emerson,Johnson,1004366,Executive Buyer Alignment (video),22,,00:30,Natalie Brooks
+20001370,Emerson,Johnson,1004884,Complaint Handling Practice (video),100,09/01/2025 13:55,02:30,Marcus Reed
+20001370,Emerson,Johnson,1006105,Payroll and Timekeeping (online),9,,00:50,Natalie Brooks
+20001507,Hayden,Kim,1000037,Coaching Conversations for Managers (online),100,05/16/2026 16:50,02:00,Elena Martinez
+20001507,Hayden,Kim,1000074,Leading Through Change (instructor-led),100,07/22/2025 09:35,00:25,Natalie Brooks
+20001507,Hayden,Kim,1000185,Strategic Thinking Foundations (video),8,,03:00,Priya Shah
+20001507,Hayden,Kim,1000222,Managing Hybrid Teams (self-study),51,,01:00,
+20001507,Hayden,Kim,1000296,Inclusive Leadership Habits (self-study),100,04/20/2026 15:00,00:40,Natalie Brooks
+20001507,Hayden,Kim,1000333,Executive Presence Basics (video),0,,00:50,
+20001507,Hayden,Kim,1000370,Conflict Resolution for Leaders (online),100,05/15/2026 11:20,00:15,Natalie Brooks
+20001507,Hayden,Kim,1000407,Talent Review Readiness (online),100,09/07/2025 11:35,00:20,Marcus Reed
+20001507,Hayden,Kim,1000555,Leadership Communication Lab (online),100,11/27/2025 11:15,02:30,
+20001507,Hayden,Kim,1000629,Manager Onboarding Essentials (online),0,,00:35,Marcus Reed
+20001507,Hayden,Kim,1000666,Code of Conduct Overview (Inactive 08/22/2025),0,,00:15,Marcus Reed
+20001507,Hayden,Kim,1000925,Reporting Concerns Safely (video),0,,00:50,Marcus Reed
+20001507,Hayden,Kim,1000999,Workplace Investigations Basics (online),0,,00:20,Natalie Brooks
+20001507,Hayden,Kim,1001665,Secure File Sharing (self-study),100,04/22/2026 11:25,01:45,Natalie Brooks
+20001507,Hayden,Kim,1001702,Identity Protection Basics (Discontinued 10/01/2025),39,,01:45,Elena Martinez
+20001507,Hayden,Kim,1001924,Project Charter Fundamentals (instructor-led),23,,00:50,Elena Martinez
+20001507,Hayden,Kim,1001961,Agile Planning Basics (instructor-led),0,,03:00,Natalie Brooks
+20001507,Hayden,Kim,1001998,Risk Register Workshop (instructor-led),100,06/24/2024 08:35,01:00,
+20001507,Hayden,Kim,1002035,Stakeholder Mapping (instructor-led),100,01/08/2025 17:35,00:50,Elena Martinez
+20001507,Hayden,Kim,1002072,Project Budget Tracking (self-study),0,,00:20,Elena Martinez
+20001507,Hayden,Kim,1002109,Sprint Review Facilitation (online),99,,00:30,Natalie Brooks
+20001507,Hayden,Kim,1002183,Project Status Reporting (video),0,,00:20,Marcus Reed
+20001507,Hayden,Kim,1002220,Scope Management Essentials (video),4,,00:40,Priya Shah
+20001507,Hayden,Kim,1002479,Project Governance Overview (online),28,,00:15,Natalie Brooks
+20001507,Hayden,Kim,1002516,Delivery Metrics Basics (instructor-led),32,,00:20,Natalie Brooks
+20001507,Hayden,Kim,1002738,Influencing Without Authority (Inactive 03/23/2026),9,,02:30,
+20001507,Hayden,Kim,1002886,Stakeholder Communication (self-study),100,06/01/2024 11:20,00:35,Elena Martinez
+20001507,Hayden,Kim,1003071,Building Trust Remotely (instructor-led),100,05/27/2024 12:30,00:25,Priya Shah
+20001507,Hayden,Kim,1003626,Diverse Team Collaboration (video),100,10/09/2025 11:50,01:30,Elena Martinez
+20001507,Hayden,Kim,1003774,Inclusive Feedback Practices (online),47,,00:50,Marcus Reed
+20001507,Hayden,Kim,1003811,Consultative Selling Basics (instructor-led),100,10/24/2025 12:50,02:30,Marcus Reed
+20001507,Hayden,Kim,1003848,Pipeline Management Essentials (instructor-led),100,04/03/2026 10:45,01:45,Elena Martinez
+20001507,Hayden,Kim,1003885,Discovery Call Practice (instructor-led),100,08/11/2024 09:50,00:15,Priya Shah
+20001507,Hayden,Kim,1003922,Handling Objections (instructor-led),100,04/12/2025 17:05,01:30,Natalie Brooks
+20001507,Hayden,Kim,1003959,Account Planning Foundations (online),100,03/30/2025 16:00,01:30,Elena Martinez
+20001507,Hayden,Kim,1003996,Product Positioning Basics (video),100,05/05/2025 16:50,01:30,Priya Shah
+20001507,Hayden,Kim,1004033,Sales Forecasting Review (online),100,06/29/2024 16:45,00:20,Priya Shah
+20001507,Hayden,Kim,1004107,CRM Hygiene Basics (video),100,06/13/2025 12:50,01:45,Elena Martinez
+20001507,Hayden,Kim,1004144,Customer Value Messaging (self-study),100,01/08/2026 10:45,00:40,Elena Martinez
+20001507,Hayden,Kim,1004181,Renewal Conversation Skills (video),100,05/03/2025 13:35,02:00,Marcus Reed
+20001507,Hayden,Kim,1004218,Territory Planning Lab (online),100,07/21/2024 12:15,02:30,Elena Martinez
+20001507,Hayden,Kim,1004255,Sales Presentation Practice (instructor-led),100,09/01/2025 09:20,00:20,Elena Martinez
+20001507,Hayden,Kim,1004292,Competitive Differentiation (instructor-led),100,09/22/2024 17:20,00:30,Marcus Reed
+20001507,Hayden,Kim,1004329,Prospecting Fundamentals (video),100,01/23/2025 17:40,00:30,Elena Martinez
+20001507,Hayden,Kim,1004366,Executive Buyer Alignment (video),100,05/30/2025 13:10,00:30,Marcus Reed
+20001507,Hayden,Kim,1004403,Opportunity Qualification (instructor-led),100,06/25/2025 12:20,01:00,
+20001507,Hayden,Kim,1004440,Customer Empathy Essentials (online),100,09/08/2024 12:55,00:50,Priya Shah
+20001507,Hayden,Kim,1004847,Service Metrics Foundations (video),100,05/11/2025 15:40,02:30,Elena Martinez
+20001507,Hayden,Kim,1005032,Customer Success Handoff (Inactive 06/26/2024),0,,01:00,Marcus Reed
+20001507,Hayden,Kim,1005328,Analytics Storytelling (online),50,,00:50,Priya Shah
+20001507,Hayden,Kim,1005365,Survey Data Interpretation (video),0,,00:50,Elena Martinez
+20001507,Hayden,Kim,1005698,Company Orientation (online),0,,02:00,Priya Shah
+20001507,Hayden,Kim,1006105,Payroll and Timekeeping (online),0,,00:50,
+20001507,Hayden,Kim,1006290,Onboarding Milestone Review (Inactive 02/24/2026),0,,01:15,
+20001644,Jamie,Lewis,1000037,Coaching Conversations for Managers (online),100,07/22/2025 14:00,02:00,Elena Martinez
+20001644,Jamie,Lewis,1000074,Leading Through Change (instructor-led),100,10/30/2025 13:30,00:25,Priya Shah
+20001644,Jamie,Lewis,1000111,Delegation Essentials (instructor-led),100,11/23/2025 13:50,01:00,Marcus Reed
+20001644,Jamie,Lewis,1000148,Performance Feedback Practice (online),100,05/19/2026 15:20,02:00,
+20001644,Jamie,Lewis,1000185,Strategic Thinking Foundations (video),100,01/12/2026 12:55,03:00,Marcus Reed
+20001644,Jamie,Lewis,1000222,Managing Hybrid Teams (self-study),100,10/01/2024 12:35,01:00,Natalie Brooks
+20001644,Jamie,Lewis,1000296,Inclusive Leadership Habits (self-study),100,10/07/2025 12:30,00:40,Marcus Reed
+20001644,Jamie,Lewis,1000333,Executive Presence Basics (video),100,06/14/2025 09:15,00:50,Elena Martinez
+20001644,Jamie,Lewis,1000370,Conflict Resolution for Leaders (online),100,12/02/2025 17:10,00:15,Elena Martinez
+20001644,Jamie,Lewis,1000407,Talent Review Readiness (online),100,03/30/2026 17:45,00:20,Elena Martinez
+20001644,Jamie,Lewis,1000481,Leading Effective One-on-Ones (video),100,08/26/2024 09:35,00:40,Priya Shah
+20001644,Jamie,Lewis,1000518,Mentoring Emerging Leaders (instructor-led),100,10/17/2024 15:10,03:00,Natalie Brooks
+20001644,Jamie,Lewis,1000555,Leadership Communication Lab (online),100,07/27/2025 09:35,02:30,Natalie Brooks
+20001644,Jamie,Lewis,1000629,Manager Onboarding Essentials (online),100,10/28/2024 10:50,00:35,Elena Martinez
+20001644,Jamie,Lewis,1000703,Anti-Bribery Fundamentals (online),25,,00:30,Priya Shah
+20001644,Jamie,Lewis,1000740,Privacy and Data Handling (video),0,,03:00,Elena Martinez
+20001644,Jamie,Lewis,1000777,Records Retention Basics (video),11,,01:15,Elena Martinez
+20001644,Jamie,Lewis,1000851,Conflicts of Interest (online),81,,00:20,Marcus Reed
+20001644,Jamie,Lewis,1000962,Global Trade Compliance (online),27,,02:30,Elena Martinez
+20001644,Jamie,Lewis,1001110,Compliance Scenario Workshop (online),16,,02:00,Natalie Brooks
+20001644,Jamie,Lewis,1001221,Fair Competition Basics (instructor-led),0,,01:30,
+20001644,Jamie,Lewis,1001924,Project Charter Fundamentals (instructor-led),0,,00:50,Priya Shah
+20001644,Jamie,Lewis,1001961,Agile Planning Basics (instructor-led),18,,03:00,Natalie Brooks
+20001644,Jamie,Lewis,1001998,Risk Register Workshop (instructor-led),0,,01:00,Priya Shah
+20001644,Jamie,Lewis,1002035,Stakeholder Mapping (instructor-led),61,,00:50,Elena Martinez
+20001644,Jamie,Lewis,1002072,Project Budget Tracking (self-study),46,,00:20,Elena Martinez
+20001644,Jamie,Lewis,1002109,Sprint Review Facilitation (online),8,,00:30,
+20001644,Jamie,Lewis,1002146,Waterfall Delivery Basics (self-study),65,,00:30,Priya Shah
+20001644,Jamie,Lewis,1002220,Scope Management Essentials (video),0,,00:40,Elena Martinez
+20001644,Jamie,Lewis,1002257,Retrospective Facilitation (instructor-led),0,,00:15,Natalie Brooks
+20001644,Jamie,Lewis,1002294,Dependency Management (self-study),0,,01:15,Priya Shah
+20001644,Jamie,Lewis,1002331,Project Closeout Practices (online),20,,01:00,
+20001644,Jamie,Lewis,1002405,Resource Planning Lab (video),0,,01:15,Natalie Brooks
+20001644,Jamie,Lewis,1002442,Milestone Planning Essentials (instructor-led),0,,00:30,Priya Shah
+20001644,Jamie,Lewis,1002479,Project Governance Overview (online),24,,00:15,Priya Shah
+20001644,Jamie,Lewis,1002516,Delivery Metrics Basics (instructor-led),0,,00:20,
+20001644,Jamie,Lewis,1002590,Business Writing Essentials (online),88,,01:30,Natalie Brooks
+20001644,Jamie,Lewis,1002664,Cross-Functional Collaboration (online),0,,00:30,Priya Shah
+20001644,Jamie,Lewis,1002701,Presentation Skills Basics (instructor-led),92,,00:20,Elena Martinez
+20001644,Jamie,Lewis,1002738,Influencing Without Authority (Inactive 03/23/2026),41,,02:30,
+20001644,Jamie,Lewis,1002849,Difficult Conversations Practice (self-study),63,,00:30,Priya Shah
+20001644,Jamie,Lewis,1002886,Stakeholder Communication (self-study),100,06/18/2025 13:20,00:35,Priya Shah
+20001644,Jamie,Lewis,1002923,Team Norms Workshop (instructor-led),0,,01:30,Priya Shah
+20001644,Jamie,Lewis,1002960,Storytelling with Data (self-study),0,,00:50,Natalie Brooks
+20001644,Jamie,Lewis,1002997,Negotiation Foundations (instructor-led),49,,00:30,Priya Shah
+20001644,Jamie,Lewis,1003071,Building Trust Remotely (instructor-led),0,,00:25,Elena Martinez
+20001644,Jamie,Lewis,1004514,Escalation Management (online),16,,00:25,Elena Martinez
+20001644,Jamie,Lewis,1004662,Support Queue Management (online),0,,02:30,Priya Shah
+20001644,Jamie,Lewis,1004699,De-Escalation Practice (video),43,,03:00,Marcus Reed
+20001644,Jamie,Lewis,1004773,Knowledge Base Authoring (online),0,,00:50,Natalie Brooks
+20001644,Jamie,Lewis,1004810,First Contact Resolution (video),68,,02:00,Elena Martinez
+20001644,Jamie,Lewis,1004884,Complaint Handling Practice (video),0,,02:30,Priya Shah
+20001644,Jamie,Lewis,1004995,Support Team Collaboration (self-study),0,,00:15,Priya Shah
+20001644,Jamie,Lewis,1005032,Customer Success Handoff (Inactive 06/26/2024),0,,01:00,
+20001781,Kendall,Morris,1000037,Coaching Conversations for Managers (online),100,12/07/2024 12:45,02:00,Priya Shah
+20001781,Kendall,Morris,1000259,Manager Decision Making (Inactive 04/24/2026),94,,01:15,Elena Martinez
+20001781,Kendall,Morris,1000444,Building Team Accountability (instructor-led),0,,03:00,
+20001781,Kendall,Morris,1000740,Privacy and Data Handling (video),71,,03:00,Priya Shah
+20001781,Kendall,Morris,1001184,Responsible Business Conduct (instructor-led),56,,00:25,Elena Martinez
+20001781,Kendall,Morris,1001295,Phishing Awareness Refresher (online),100,09/10/2024 10:30,01:00,Elena Martinez
+20001781,Kendall,Morris,1001332,Password Security Essentials (instructor-led),100,06/16/2024 09:30,00:25,Priya Shah
+20001781,Kendall,Morris,1001406,Data Classification Basics (instructor-led),100,11/01/2025 17:15,02:30,Natalie Brooks
+20001781,Kendall,Morris,1001443,Mobile Device Security (online),100,08/29/2024 09:20,01:15,Elena Martinez
+20001781,Kendall,Morris,1001480,Social Engineering Defense (self-study),100,02/07/2026 14:40,00:45,Elena Martinez
+20001781,Kendall,Morris,1001517,Incident Reporting Basics (self-study),100,06/11/2024 08:20,00:30,Priya Shah
+20001781,Kendall,Morris,1001554,Cloud Security Foundations (online),100,05/04/2026 11:15,03:00,Natalie Brooks
+20001781,Kendall,Morris,1001591,Multi-Factor Authentication (self-study),100,01/09/2026 11:55,01:00,Marcus Reed
+20001781,Kendall,Morris,1001628,Ransomware Awareness (online),100,05/22/2025 14:20,02:00,Priya Shah
+20001781,Kendall,Morris,1001665,Secure File Sharing (self-study),100,09/20/2024 16:25,01:45,Marcus Reed
+20001781,Kendall,Morris,1001702,Identity Protection Basics (Discontinued 10/01/2025),27,,01:45,Elena Martinez
+20001781,Kendall,Morris,1001739,Security for Managers (video),100,03/19/2025 09:50,00:35,Priya Shah
+20001781,Kendall,Morris,1001776,Safe Browsing Practices (video),100,11/12/2025 10:30,00:45,
+20001781,Kendall,Morris,1001813,Endpoint Protection Overview (instructor-led),100,04/15/2026 14:50,01:30,Priya Shah
+20001781,Kendall,Morris,1001850,Cybersecurity Annual Review (online),100,09/22/2024 08:50,01:30,Priya Shah
+20001781,Kendall,Morris,1001887,Travel Security Tips (video),100,01/27/2026 09:35,00:40,Elena Martinez
+20001781,Kendall,Morris,1001998,Risk Register Workshop (instructor-led),100,02/02/2026 08:00,01:00,Priya Shah
+20001781,Kendall,Morris,1002035,Stakeholder Mapping (instructor-led),100,06/19/2024 10:25,00:50,
+20001781,Kendall,Morris,1002146,Waterfall Delivery Basics (self-study),63,,00:30,Marcus Reed
+20001781,Kendall,Morris,1002257,Retrospective Facilitation (instructor-led),0,,00:15,Priya Shah
+20001781,Kendall,Morris,1002331,Project Closeout Practices (online),66,,01:00,Marcus Reed
+20001781,Kendall,Morris,1002516,Delivery Metrics Basics (instructor-led),76,,00:20,Elena Martinez
+20001781,Kendall,Morris,1002701,Presentation Skills Basics (instructor-led),84,,00:20,Marcus Reed
+20001781,Kendall,Morris,1002886,Stakeholder Communication (self-study),100,12/03/2025 09:00,00:35,Natalie Brooks
+20001781,Kendall,Morris,1002960,Storytelling with Data (self-study),3,,00:50,Natalie Brooks
+20001781,Kendall,Morris,1003071,Building Trust Remotely (instructor-led),100,09/07/2025 15:55,00:25,Natalie Brooks
+20001781,Kendall,Morris,1003182,DEI Foundations (video),0,,03:00,Marcus Reed
+20001781,Kendall,Morris,1003367,Allyship in Action (online),33,,02:00,Priya Shah
+20001781,Kendall,Morris,1003404,Accessibility at Work (video),0,,00:50,Priya Shah
+20001781,Kendall,Morris,1003552,Microaggressions Awareness (online),40,,00:20,Priya Shah
+20001781,Kendall,Morris,1003626,Diverse Team Collaboration (video),100,11/22/2024 17:00,01:30,Marcus Reed
+20001781,Kendall,Morris,1003700,Neurodiversity Awareness (Discontinued 04/27/2025),93,,00:45,
+20001781,Kendall,Morris,1003737,Employee Resource Group Basics (instructor-led),6,,00:45,Elena Martinez
+20001781,Kendall,Morris,1003774,Inclusive Feedback Practices (online),0,,00:50,Natalie Brooks
+20001781,Kendall,Morris,1003848,Pipeline Management Essentials (instructor-led),100,01/17/2026 13:55,01:45,Marcus Reed
+20001781,Kendall,Morris,1004107,CRM Hygiene Basics (video),100,08/27/2025 16:15,01:45,Priya Shah
+20001781,Kendall,Morris,1004218,Territory Planning Lab (online),100,11/08/2024 15:15,02:30,Elena Martinez
+20001781,Kendall,Morris,1004440,Customer Empathy Essentials (online),100,02/23/2025 14:05,00:50,Marcus Reed
+20001781,Kendall,Morris,1004514,Escalation Management (online),20,,00:25,Natalie Brooks
+20001781,Kendall,Morris,1004662,Support Queue Management (online),46,,02:30,Natalie Brooks
+20001781,Kendall,Morris,1004699,De-Escalation Practice (video),21,,03:00,Elena Martinez
+20001781,Kendall,Morris,1004736,Customer Journey Basics (instructor-led),0,,00:20,Natalie Brooks
+20001781,Kendall,Morris,1004773,Knowledge Base Authoring (online),14,,00:50,Natalie Brooks
+20001781,Kendall,Morris,1004847,Service Metrics Foundations (video),100,07/22/2025 12:35,02:30,Priya Shah
+20001781,Kendall,Morris,1004884,Complaint Handling Practice (video),100,09/27/2024 16:10,02:30,Marcus Reed
+20001781,Kendall,Morris,1004921,Customer Feedback Review (online),0,,01:00,
+20001781,Kendall,Morris,1005032,Customer Success Handoff (Inactive 06/26/2024),67,,01:00,Elena Martinez
+20001781,Kendall,Morris,1005069,Data Literacy Foundations (video),0,,02:30,
+20001781,Kendall,Morris,1005957,HR Systems Navigation (online),0,,02:00,Natalie Brooks
+20001918,Logan,Nguyen,1000037,Coaching Conversations for Managers (online),100,06/18/2024 17:05,02:00,Marcus Reed
+20001918,Logan,Nguyen,1000074,Leading Through Change (instructor-led),100,09/03/2024 08:00,00:25,Elena Martinez
+20001918,Logan,Nguyen,1000111,Delegation Essentials (instructor-led),10,,01:00,Priya Shah
+20001918,Logan,Nguyen,1000185,Strategic Thinking Foundations (video),0,,03:00,Elena Martinez
+20001918,Logan,Nguyen,1000222,Managing Hybrid Teams (self-study),0,,01:00,Marcus Reed
+20001918,Logan,Nguyen,1000259,Manager Decision Making (Inactive 04/24/2026),46,,01:15,Natalie Brooks
+20001918,Logan,Nguyen,1000296,Inclusive Leadership Habits (self-study),100,07/30/2025 13:50,00:40,Natalie Brooks
+20001918,Logan,Nguyen,1000370,Conflict Resolution for Leaders (online),100,06/22/2024 10:35,00:15,Natalie Brooks
+20001918,Logan,Nguyen,1000407,Talent Review Readiness (online),100,06/01/2024 16:55,00:20,Priya Shah
+20001918,Logan,Nguyen,1000518,Mentoring Emerging Leaders (instructor-led),0,,03:00,Natalie Brooks
+20001918,Logan,Nguyen,1000555,Leadership Communication Lab (online),100,04/02/2026 09:10,02:30,Marcus Reed
+20001918,Logan,Nguyen,1001517,Incident Reporting Basics (self-study),0,,00:30,Elena Martinez
+20001918,Logan,Nguyen,1001665,Secure File Sharing (self-study),100,07/30/2024 10:25,01:45,Elena Martinez
+20001918,Logan,Nguyen,1001702,Identity Protection Basics (Discontinued 10/01/2025),74,,01:45,Elena Martinez
+20001918,Logan,Nguyen,1001850,Cybersecurity Annual Review (online),0,,01:30,Elena Martinez
+20001918,Logan,Nguyen,1001924,Project Charter Fundamentals (instructor-led),0,,00:50,Elena Martinez
+20001918,Logan,Nguyen,1001961,Agile Planning Basics (instructor-led),0,,03:00,Natalie Brooks
+20001918,Logan,Nguyen,1001998,Risk Register Workshop (instructor-led),100,11/19/2025 17:30,01:00,Elena Martinez
+20001918,Logan,Nguyen,1002035,Stakeholder Mapping (instructor-led),100,03/01/2025 17:20,00:50,
+20001918,Logan,Nguyen,1002109,Sprint Review Facilitation (online),57,,00:30,Elena Martinez
+20001918,Logan,Nguyen,1002220,Scope Management Essentials (video),89,,00:40,Elena Martinez
+20001918,Logan,Nguyen,1002257,Retrospective Facilitation (instructor-led),0,,00:15,Marcus Reed
+20001918,Logan,Nguyen,1002405,Resource Planning Lab (video),45,,01:15,Elena Martinez
+20001918,Logan,Nguyen,1002479,Project Governance Overview (online),15,,00:15,Marcus Reed
+20001918,Logan,Nguyen,1002516,Delivery Metrics Basics (instructor-led),6,,00:20,Priya Shah
+20001918,Logan,Nguyen,1002701,Presentation Skills Basics (instructor-led),22,,00:20,Priya Shah
+20001918,Logan,Nguyen,1002886,Stakeholder Communication (self-study),100,07/07/2025 14:55,00:35,Marcus Reed
+20001918,Logan,Nguyen,1002960,Storytelling with Data (self-study),0,,00:50,Elena Martinez
+20001918,Logan,Nguyen,1003071,Building Trust Remotely (instructor-led),100,02/26/2025 08:05,00:25,Priya Shah
+20001918,Logan,Nguyen,1003145,Facilitation Practice Lab (self-study),0,,03:00,Natalie Brooks
+20001918,Logan,Nguyen,1003182,DEI Foundations (video),52,,03:00,Priya Shah
+20001918,Logan,Nguyen,1003219,Unconscious Bias Awareness (online),0,,01:15,Natalie Brooks
+20001918,Logan,Nguyen,1003626,Diverse Team Collaboration (video),100,01/08/2026 08:10,01:30,Priya Shah
+20001918,Logan,Nguyen,1003811,Consultative Selling Basics (instructor-led),100,02/06/2026 14:45,02:30,Elena Martinez
+20001918,Logan,Nguyen,1003848,Pipeline Management Essentials (instructor-led),100,01/19/2025 14:50,01:45,Priya Shah
+20001918,Logan,Nguyen,1003885,Discovery Call Practice (instructor-led),100,05/14/2026 10:50,00:15,Natalie Brooks
+20001918,Logan,Nguyen,1003922,Handling Objections (instructor-led),100,06/11/2025 16:40,01:30,Natalie Brooks
+20001918,Logan,Nguyen,1003959,Account Planning Foundations (online),100,01/14/2025 17:50,01:30,Natalie Brooks
+20001918,Logan,Nguyen,1003996,Product Positioning Basics (video),100,03/06/2025 11:35,01:30,Elena Martinez
+20001918,Logan,Nguyen,1004033,Sales Forecasting Review (online),100,10/22/2024 11:50,00:20,Natalie Brooks
+20001918,Logan,Nguyen,1004070,Negotiation for Sellers (Inactive 02/21/2026),0,,00:45,Priya Shah
+20001918,Logan,Nguyen,1004107,CRM Hygiene Basics (video),100,08/03/2024 10:40,01:45,Natalie Brooks
+20001918,Logan,Nguyen,1004144,Customer Value Messaging (self-study),100,05/21/2025 17:00,00:40,Natalie Brooks
+20001918,Logan,Nguyen,1004181,Renewal Conversation Skills (video),100,08/29/2025 13:00,02:00,Marcus Reed
+20001918,Logan,Nguyen,1004218,Territory Planning Lab (online),100,01/05/2025 13:15,02:30,Elena Martinez
+20001918,Logan,Nguyen,1004255,Sales Presentation Practice (instructor-led),100,02/10/2025 12:30,00:20,Priya Shah
+20001918,Logan,Nguyen,1004292,Competitive Differentiation (instructor-led),100,07/13/2024 14:10,00:30,
+20001918,Logan,Nguyen,1004329,Prospecting Fundamentals (video),100,02/17/2026 13:25,00:30,Priya Shah
+20001918,Logan,Nguyen,1004366,Executive Buyer Alignment (video),100,11/17/2025 09:30,00:30,Priya Shah
+20001918,Logan,Nguyen,1004403,Opportunity Qualification (instructor-led),100,01/28/2025 15:10,01:00,Priya Shah
+20001918,Logan,Nguyen,1004440,Customer Empathy Essentials (online),100,01/09/2025 09:30,00:50,
+20001918,Logan,Nguyen,1004773,Knowledge Base Authoring (online),72,,00:50,Priya Shah
+20001918,Logan,Nguyen,1004847,Service Metrics Foundations (video),100,01/25/2026 09:00,02:30,
+20001918,Logan,Nguyen,1004884,Complaint Handling Practice (video),0,,02:30,Marcus Reed
+20002055,Parker,Owens,1000037,Coaching Conversations for Managers (online),100,02/09/2025 11:55,02:00,Marcus Reed
+20002055,Parker,Owens,1000074,Leading Through Change (instructor-led),100,10/01/2024 15:40,00:25,Marcus Reed
+20002055,Parker,Owens,1000296,Inclusive Leadership Habits (self-study),100,07/23/2024 08:05,00:40,Marcus Reed
+20002055,Parker,Owens,1000370,Conflict Resolution for Leaders (online),100,07/04/2025 09:35,00:15,Natalie Brooks
+20002055,Parker,Owens,1000407,Talent Review Readiness (online),100,02/12/2025 13:40,00:20,Elena Martinez
+20002055,Parker,Owens,1000555,Leadership Communication Lab (online),100,11/06/2024 14:30,02:30,Marcus Reed
+20002055,Parker,Owens,1001295,Phishing Awareness Refresher (online),100,04/06/2026 17:05,01:00,
+20002055,Parker,Owens,1001332,Password Security Essentials (instructor-led),100,09/25/2025 09:35,00:25,Priya Shah
+20002055,Parker,Owens,1001369,Secure Remote Work (Inactive 07/27/2025),18,,01:00,Elena Martinez
+20002055,Parker,Owens,1001406,Data Classification Basics (instructor-led),100,11/23/2025 17:10,02:30,Marcus Reed
+20002055,Parker,Owens,1001443,Mobile Device Security (online),100,09/27/2024 16:10,01:15,Marcus Reed
+20002055,Parker,Owens,1001480,Social Engineering Defense (self-study),100,02/22/2026 15:35,00:45,Priya Shah
+20002055,Parker,Owens,1001517,Incident Reporting Basics (self-study),100,06/08/2025 13:50,00:30,Natalie Brooks
+20002055,Parker,Owens,1001554,Cloud Security Foundations (online),100,07/29/2025 16:40,03:00,Marcus Reed
+20002055,Parker,Owens,1001591,Multi-Factor Authentication (self-study),100,05/06/2025 09:00,01:00,Natalie Brooks
+20002055,Parker,Owens,1001628,Ransomware Awareness (online),100,06/06/2024 16:20,02:00,
+20002055,Parker,Owens,1001665,Secure File Sharing (self-study),100,02/19/2026 17:45,01:45,Priya Shah
+20002055,Parker,Owens,1001739,Security for Managers (video),100,12/06/2025 15:10,00:35,Elena Martinez
+20002055,Parker,Owens,1001776,Safe Browsing Practices (video),100,02/14/2025 09:05,00:45,Natalie Brooks
+20002055,Parker,Owens,1001813,Endpoint Protection Overview (instructor-led),100,09/11/2025 12:30,01:30,Natalie Brooks
+20002055,Parker,Owens,1001850,Cybersecurity Annual Review (online),100,08/22/2024 12:50,01:30,
+20002055,Parker,Owens,1001887,Travel Security Tips (video),100,04/04/2026 16:30,00:40,Priya Shah
+20002055,Parker,Owens,1001998,Risk Register Workshop (instructor-led),100,12/29/2024 08:40,01:00,Priya Shah
+20002055,Parker,Owens,1002035,Stakeholder Mapping (instructor-led),100,07/05/2024 15:25,00:50,Priya Shah
+20002055,Parker,Owens,1002553,Effective Meeting Facilitation (self-study),100,06/04/2025 10:55,01:45,
+20002055,Parker,Owens,1002590,Business Writing Essentials (online),100,08/27/2024 17:35,01:30,Natalie Brooks
+20002055,Parker,Owens,1002627,Active Listening Practice (self-study),100,05/16/2025 08:15,00:15,Natalie Brooks
+20002055,Parker,Owens,1002664,Cross-Functional Collaboration (online),100,04/02/2026 16:15,00:30,Marcus Reed
+20002055,Parker,Owens,1002701,Presentation Skills Basics (instructor-led),100,03/21/2025 17:55,00:20,Natalie Brooks
+20002055,Parker,Owens,1002738,Influencing Without Authority (Inactive 03/23/2026),98,,02:30,Priya Shah
+20002055,Parker,Owens,1002775,Giving and Receiving Feedback (online),100,07/20/2024 13:55,00:40,Natalie Brooks
+20002055,Parker,Owens,1002849,Difficult Conversations Practice (self-study),100,01/02/2026 14:45,00:30,Elena Martinez
+20002055,Parker,Owens,1002886,Stakeholder Communication (self-study),100,04/05/2025 14:00,00:35,Elena Martinez
+20002055,Parker,Owens,1002923,Team Norms Workshop (instructor-led),100,01/17/2025 17:45,01:30,Marcus Reed
+20002055,Parker,Owens,1002960,Storytelling with Data (self-study),100,03/30/2025 09:20,00:50,Priya Shah
+20002055,Parker,Owens,1002997,Negotiation Foundations (instructor-led),100,11/14/2024 13:55,00:30,Elena Martinez
+20002055,Parker,Owens,1003034,Communication Style Awareness (online),100,02/16/2025 15:50,01:00,Natalie Brooks
+20002055,Parker,Owens,1003071,Building Trust Remotely (instructor-led),100,08/09/2024 12:40,00:25,Elena Martinez
+20002055,Parker,Owens,1003108,Email Productivity Basics (online),100,06/28/2025 16:30,01:45,Priya Shah
+20002055,Parker,Owens,1003145,Facilitation Practice Lab (self-study),100,07/27/2024 10:40,03:00,Natalie Brooks
+20002055,Parker,Owens,1003626,Diverse Team Collaboration (video),100,06/06/2025 12:35,01:30,
+20002055,Parker,Owens,1003811,Consultative Selling Basics (instructor-led),100,06/04/2024 16:25,02:30,Marcus Reed
+20002055,Parker,Owens,1003848,Pipeline Management Essentials (instructor-led),100,01/12/2026 09:30,01:45,Marcus Reed
+20002055,Parker,Owens,1003922,Handling Objections (instructor-led),100,01/20/2026 14:15,01:30,Marcus Reed
+20002055,Parker,Owens,1003959,Account Planning Foundations (online),100,05/25/2024 16:50,01:30,Priya Shah
+20002055,Parker,Owens,1003996,Product Positioning Basics (video),100,06/11/2025 09:30,01:30,Natalie Brooks
+20002055,Parker,Owens,1004033,Sales Forecasting Review (online),100,09/05/2024 11:15,00:20,Marcus Reed
+20002055,Parker,Owens,1004107,CRM Hygiene Basics (video),100,07/19/2024 17:45,01:45,
+20002055,Parker,Owens,1004181,Renewal Conversation Skills (video),100,10/25/2024 11:50,02:00,Elena Martinez
+20002055,Parker,Owens,1004218,Territory Planning Lab (online),100,01/25/2026 13:40,02:30,Natalie Brooks
+20002055,Parker,Owens,1004329,Prospecting Fundamentals (video),100,07/18/2024 11:00,00:30,Priya Shah
+20002055,Parker,Owens,1004403,Opportunity Qualification (instructor-led),100,10/13/2025 11:15,01:00,Elena Martinez
+20002055,Parker,Owens,1004440,Customer Empathy Essentials (online),100,02/23/2025 17:35,00:50,
+20002055,Parker,Owens,1004847,Service Metrics Foundations (video),100,10/30/2024 16:00,02:30,Elena Martinez

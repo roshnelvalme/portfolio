@@ -1,0 +1,736 @@
+Id|Value
+7|Platform Vendor
+8|Acute Care Delivery
+9|
+10|Bed Management
+11|
+12|Emergency Medicine
+14|
+15|Prosthetics & Sensory Aid Services
+16|
+17|
+18|Ambulatory Council
+19|Enabling Entities
+20|Research
+21|
+22|Pharmacy Council
+23|Research
+25|
+26|
+27|
+28|
+29|Pharmacy Council
+30|System Integration Office
+31|
+32|Ambulatory Council
+33|
+34|Community Data Integration
+35|
+36|Community Data Integration
+37|
+38|
+39|
+40|Emergency Medicine
+41|
+42|Behavioral Health
+43|
+44|
+45|
+46|
+47|Rehab & Acute Clinical Ancillaries
+48|
+49|
+50|Prosthetics & Sensory Aid Services
+51|
+52|
+53|Laboratory
+54|
+55|Business Operations
+56|Council Ops
+57|
+58|Research
+59|Community Data Integration
+60|Bed Management
+61|Bed Management
+62|Virtual Health
+62|Bed Management
+64|Clinical Support Services
+65|
+66|
+67|Community Data Integration
+68|
+69|
+70|
+71|Acute Provider
+72|Nursing
+73|
+74|
+75|System Integration Office
+76|
+77|Enabling Entities
+78|
+79|
+80|Cross Council
+81|
+82|
+83|Acute Provider
+84|
+85|Behavioral Health
+86|Ambulatory Council
+87|Ambulatory Council
+88|Perioperative Care
+89|Supply Chain Management
+90|Enabling Entities
+91|
+92|System Integration Office
+93|Bed Management
+94|Council Ops
+95|
+96|Pharmacy Council
+97|Supply Chain Management
+98|Integrated Veteran Care
+99|
+100|Radiology
+101|Pharmacy Council
+102|
+103|
+104|Health Professions Trainees
+105|Research
+106|Patient Engagement & Virtual Health
+107|
+108|Research
+109|Acute Provider
+110|
+111|
+112|
+113|Ambulatory Council
+114|Integrated Veteran Care
+115|Ambulatory Council
+116|Enabling Entities
+117|
+118|Clinical Support Services
+120|Integrated Veteran Care
+121|Emergency Medicine
+122|
+123|Patient Engagement & Virtual Health
+124|
+125|
+126|Supply Chain Management
+127|
+128|Sterile Processing
+129|Business Operations
+130|Platform Vendor
+131|Council Ops
+132|
+133|Pharmacy Council
+134|
+135|Supply Chain Management
+136|
+137|Health Professions Trainees
+138|Perioperative Care
+139|Radiology
+140|
+141|Health Professions Trainees
+142|Acute Care Delivery
+143|
+144|Virtual Health
+145|
+146|
+147|System Integration Office
+148|Enabling Entities
+150|
+151|System Integration Office
+152|Nursing
+154|
+155|Virtual Health
+156|
+157|Integrated Veteran Care
+158|Emergency Medicine
+159|Health Technology Management
+160|
+161|
+162|Research
+163|Laboratory
+164|
+165|System Integration Office
+167|
+168|Integrated Veteran Care
+169|Prosthetics & Sensory Aid Services
+170|Acute Provider
+171|Bed Management
+172|
+174|
+176|Laboratory
+177|
+178|
+179|
+180|
+181|
+182|
+183|Radiology
+184|
+185|Perioperative Care
+186|Health Information Management
+187|
+188|Behavioral Health
+189|Enabling Entities
+190|
+191|
+192|Virtual Health
+193|Geriatrics & Extended Care
+194|
+195|Community Data Integration
+196|
+197|Platform Vendor
+198|
+199|Behavioral Health
+201|Health Technology Management
+202|Radiology
+203|Research
+204|
+205|
+206|Solution Expert
+208|
+209|
+210|Dentistry
+212|Cross Council
+213|Supply Chain Management
+214|
+215|
+216|
+217|Research
+219|
+220|
+221|
+222|
+223|Nursing
+224|
+225|
+226|Laboratory
+227|
+228|
+229|
+230|Prosthetics & Sensory Aid Services
+231|Dentistry
+232|
+233|
+234|
+235|Health Professions Trainees
+236|
+237|Dentistry
+238|
+239|Behavioral Health
+240|
+241|Cross Council
+242|
+243|
+244|
+245|
+246|Health Technology Management
+247|
+248|Virtual Health
+249|Quality, Safety, and Value
+250|
+251|
+252|
+253|Health Technology Management
+254|
+255|
+256|
+257|
+258|Platform Vendor
+259|
+260|
+261|
+262|
+263|
+264|
+265|
+266|Health Information Management
+267|
+268|Health Information Management
+269|
+270|
+271|Rehab & Acute Clinical Ancillaries
+272|
+273|Business Operations
+274|
+275|
+276|
+277|
+278|Integrated Veteran Care
+279|
+280|
+281|Sensory Aid Services
+282|Acute Provider
+283|Health Information Management
+284|
+285|Research
+286|
+287|Acute Care Delivery
+288|Geriatrics & Extended Care
+289|Training
+290|
+291|
+292|
+294|Acute Provider
+295|Perioperative Care
+296|Integrated Veteran Care
+297|
+298|
+299|
+300|Business Operations
+301|Supply Chain Management
+302|Sterile Processing
+303|
+304|
+305|Community Data Integration
+306|
+307|
+308|Enabling Entities
+309|
+310|
+311|
+312|Rehab & Acute Clinical Ancillaries
+313|Community Data Integration
+314|
+315|
+316|Behavioral Health
+317|Dentistry
+318|Training
+319|
+320|Perioperative Care
+321|Research
+322|
+323|
+324|Health Technology Management
+325|
+326|
+327|
+328|
+329|Health Technology Management
+330|Community Data Integration
+331|Behavioral Health
+331|Business Operations
+332|Perioperative Care
+333|
+334|
+335|
+336|
+337|
+338|Platform Vendor
+339|
+340|System Integration Office
+341|Enabling Entities
+342|Cross Council
+343|Radiology
+344|Acute Provider
+344|Health Information Management
+345|
+347|Virtual Health
+348|
+349|
+350|Perioperative Care
+351|
+352|Health Information Management
+353|Acute Provider
+355|
+356|
+357|Prosthetics & Sensory Aid Services
+358|
+359|Health Professions Trainees
+360|Acute Provider
+361|Clinical Support Services
+362|Supply Chain Management
+363|
+365|
+366|Health Information Management
+367|
+368|
+369|Bed Management
+370|Health Information Management
+371|
+373|
+374|
+375|Virtual Health
+376|
+377|
+378|Emergency Medicine
+379|Acute Provider
+380|
+381|Quality, Safety, and Value
+382|Geriatrics & Extended Care
+383|Community Data Integration
+384|Training
+385|Laboratory
+386|Integrated Veteran Care
+387|
+388|
+389|
+390|Acute Provider
+391|
+392|Prosthetics & Sensory Aid Services
+393|Ambulatory Council
+393|Emergency Medicine
+395|
+396|
+397|Nursing
+398|
+399|
+400|Laboratory
+401|
+402|
+403|Integrated Veteran Care
+404|Community Data Integration
+406|Perioperative Care
+407|Bed Management
+408|
+409|
+410|
+411|
+412|
+413|Geriatrics & Extended Care
+414|
+415|
+416|System Integration Office
+417|Community Data Integration
+418|Clinical Support Services
+419|Bed Management
+420|
+421|
+422|
+423|Bed Management
+424|Sensory Aid Services
+425|Enabling Entities
+426|Integrated Veteran Care
+427|Radiology
+428|Sensory Aid Services
+429|Virtual Health
+430|Bed Management
+431|
+432|
+433|Laboratory
+434|Sensory Aid Services
+436|
+437|Ambulatory Council
+438|
+439|Acute Provider
+440|Sensory Aid Services
+441|
+442|Cross Council
+443|
+444|Bed Management
+445|
+446|
+447|Virtual Health
+448|
+449|
+450|
+451|Clinical Support Services
+452|Research
+453|
+454|Ambulatory Council
+455|
+456|Cross Council
+457|Radiology
+458|
+459|Business Operations
+459|Integrated Veteran Care
+460|Sensory Aid Services
+461|
+462|
+463|
+464|
+465|
+466|Prosthetics & Sensory Aid Services
+467|Patient Engagement & Virtual Health
+468|
+469|Health Technology Management
+470|
+471|Sensory Aid Services
+472|Ambulatory Council
+473|
+474|Platform Vendor
+475|Acute Care Delivery
+476|Integrated Veteran Care
+477|Health Information Management
+478|
+479|Business Operations
+480|Prosthetics & Sensory Aid Services
+481|Acute Provider
+482|
+483|
+484|Dentistry
+485|
+486|
+487|Enabling Entities
+488|
+489|
+490|Cross Council
+491|
+492|
+493|Patient Engagement & Virtual Health
+494|
+495|
+496|Integrated Veteran Care
+496|Dentistry
+497|
+498|Rehab & Acute Clinical Ancillaries
+499|
+500|System Integration Office
+501|
+502|
+503|
+504|
+505|
+506|
+507|
+508|
+509|
+510|
+511|Research
+512|
+513|Behavioral Health
+514|Virtual Health
+515|
+516|
+517|Sensory Aid Services
+518|
+519|
+520|
+521|
+522|Pharmacy Council
+523|Council Ops
+524|Behavioral Health
+525|Council Ops
+526|Emergency Medicine
+527|
+528|Behavioral Health
+529|
+530|Emergency Medicine
+531|
+532|
+533|Virtual Health
+534|
+535|
+536|Research
+537|
+538|
+539|
+540|
+541|Sensory Aid Services
+542|Acute Provider
+543|
+544|Virtual Health
+545|
+546|Acute Care Delivery
+547|
+548|Rehab & Acute Clinical Ancillaries
+549|Clinical Support Services
+550|
+551|Virtual Health
+552|
+553|Cross Council
+554|Health Information Management
+555|Solution Expert
+556|Perioperative Care
+557|Acute Care Delivery
+558|
+559|
+560|Sensory Aid Services
+561|Cross Council
+562|Health Information Management
+563|Quality, Safety, and Value
+564|
+565|
+566|Dentistry
+567|Prosthetics & Sensory Aid Services
+568|Research
+569|Pharmacy Council
+570|
+571|
+572|Cross Council
+573|Rehab & Acute Clinical Ancillaries
+574|Integrated Veteran Care
+575|
+576|
+577|
+578|Training
+579|
+580|Community Data Integration
+581|
+582|
+583|
+584|Sterile Processing
+585|Quality, Safety, and Value
+586|Ambulatory Council
+587|Supply Chain Management
+588|
+589|Sensory Aid Services
+590|
+591|Nursing
+592|Community Data Integration
+593|
+594|
+595|Bed Management
+596|Rehab & Acute Clinical Ancillaries
+597|Geriatrics & Extended Care
+598|Geriatrics & Extended Care
+599|
+600|
+601|Acute Provider
+602|
+603|Supply Chain Management
+604|
+605|
+606|Clinical Support Services
+607|Acute Provider
+609|
+610|Platform Vendor
+611|Nursing
+612|
+613|
+614|Clinical Support Services
+615|Prosthetics & Sensory Aid Services
+615|Laboratory
+616|
+617|Integrated Veteran Care
+618|
+619|Clinical Support Services
+620|
+622|Health Technology Management
+623|
+624|
+625|
+626|Clinical Support Services
+627|Community Data Integration
+628|Emergency Medicine
+629|System Integration Office
+630|
+631|Solution Expert
+632|
+633|Quality, Safety, and Value
+634|Dentistry
+635|Cross Council
+637|Health Information Management
+638|
+639|System Integration Office
+640|
+641|Acute Care Delivery
+642|Sensory Aid Services
+643|
+644|
+645|
+646|Health Professions Trainees
+646|Patient Engagement & Virtual Health
+647|Emergency Medicine
+648|
+649|
+650|
+651|Acute Provider
+652|Research
+653|
+655|Solution Expert
+656|
+657|
+658|
+659|Health Professions Trainees
+660|
+662|
+663|Pharmacy Council
+664|System Integration Office
+665|Training
+665|Acute Provider
+666|
+667|
+668|
+669|
+670|Emergency Medicine
+671|
+672|
+673|
+674|
+675|
+676|Pharmacy Council
+677|
+678|Business Operations
+679|Ambulatory Council
+680|Business Operations
+681|Rehab & Acute Clinical Ancillaries
+682|Emergency Medicine
+683|
+684|System Integration Office
+685|Sensory Aid Services
+686|
+687|Dentistry
+688|
+689|Nursing
+690|Prosthetics & Sensory Aid Services
+691|
+693|
+694|Health Information Management
+695|Geriatrics & Extended Care
+696|
+697|Dentistry
+698|
+699|
+700|
+701|
+702|Laboratory
+703|Perioperative Care
+704|Research
+705|Laboratory
+706|Bed Management
+707|
+708|Training
+709|Cross Council
+710|Health Information Management
+711|
+712|
+713|
+714|
+715|
+716|Radiology
+717|
+718|Sensory Aid Services
+718|Business Operations
+719|
+720|
+721|
+722|Research
+723|
+724|Bed Management
+726|
+728|
+729|Acute Care Delivery
+730|
+731|Community Data Integration
+732|
+733|Nursing
+734|Health Technology Management
+735|Sterile Processing
+736|
+737|Pharmacy Council
+738|
+739|Pharmacy Council
+740|Health Information Management
+741|
+742|Enabling Entities
+743|Integrated Veteran Care
+744|
+745|Behavioral Health
+746|
+747|Platform Vendor
+748|Integrated Veteran Care
+749|Solution Expert
+750|Research
+751|
+752|
+753|
+754|Radiology
+755|
+756|
+757|
+758|
+759|Acute Provider
+760|Quality, Safety, and Value

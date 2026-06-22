@@ -32,7 +32,7 @@ Replaced manual Excel-based training tracking with an automated Power BI dashboa
 
 **Status:** Complete
 
-**Tools Used:** Power BI, Power Query, DAX, LMS Exports, CSV Files
+**Tools Used:** Power BI, Power Query, DAX, CSV Files
 
 [View Project](Adventure%20Works%20Report/README.md)
 

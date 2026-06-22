@@ -6,6 +6,9 @@
 
 [Link to Hosted Report](https://app.powerbi.com/view?r=eyJrIjoiOTY1ZWQ5MGItODU1Zi00ZjlmLWFmYjUtYTBiMjg5NWVlZDBmIiwidCI6IjlhYzIwMTdiLTBiNjAtNDgzZC1iYjkzLWVjOWU3YTU1MDE3MCJ9)
 
+## Executive Summary
+Replaced manual Excel-based training tracking with an automated Power BI dashboard that combines LMS exports, course mappings, learning path data, and workstream assignments into repeatable completion KPIs. The report helps leaders monitor learning path progress, workstream readiness, course completion, source-file freshness, and learner-level follow-up needs.
+
 ## Project Description
 
 This project transformed a manual training KPI process into a repeatable Power BI reporting solution.  The business previously monitored training progress in Excel by exporting LMS reports, manually entering values into spreadsheets, maintaining separate workstream mappings, and relying on formulas to calculate completion metrics.  The LMS could produce course and learning path exports, but had no way to connect training activity to the higher-level workstreams the business used to manage and evaluate readiness.  That gap made reporting time-consuming, error-prone, and difficult to audit.  The goal was to eliminate the manual cycle by accepting five structured CSV inputs (course results, learning path results, a workstream-to-course mapping, a workstream-to-user mapping, and relevant ad hoc training) and having Power BI handle all shaping, relationship resolution, calculation, and visualization automatically.

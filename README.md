@@ -12,7 +12,7 @@ This portfolio highlights Power BI projects focused on business intelligence, da
 
 [View Project](Enterprise%20Issue%20Management%20Leadership%20Dashboard/README.md)
 
-Built a Power BI leadership dashboard to support recurring review of enterprise issue management activity, including intake, ownership, status progression, aging, risk, and resolution trends.
+Built a Power BI leadership dashboard that transformed a SharePoint-based issue list into an executive reporting tool for tracking open workload, aging issues, ownership, source trends, risk, status history, and resolution progress. The solution used Power Query, DAX, SharePoint version history, JSON parsing, and drill-through pages to support recurring leadership reviews and issue-level investigation.
 
 ---
 
@@ -24,7 +24,7 @@ Built a Power BI leadership dashboard to support recurring review of enterprise 
 
 [View Project](Training%20Dashboard%20-%20Learning%20Path%20and%20Workstream%20KPIs/README.md)
 
-Built a Power BI Dashboard that replaced manual Excel tracking by combining LMS exports and workstream mapping files into automated course, learning path, workstream, and learning completion KPIs.
+Replaced manual Excel-based training tracking with an automated Power BI dashboard that combines LMS exports, course mappings, learning path data, and workstream assignments into repeatable completion KPIs. The report helps leaders monitor learning path progress, workstream readiness, course completion, source-file freshness, and learner-level follow-up needs.
 
 ## Public Sample Dataset Project
 
@@ -36,7 +36,7 @@ Built a Power BI Dashboard that replaced manual Excel tracking by combining LMS 
 
 [View Project](Adventure%20Works%20Report/README.md)
 
-Built a Power BI sales analytics report using the Adventure Works sample dataset to demonstrate semantic modeling, DAX measure development, sales performance analysis, product and customer segmentation, and executive-style report design using a public dataset.
+Developed an interactive Power BI sales analytics report using the Adventure Works dataset to track revenue, profit, returns, regional performance, product trends, and customer segments. The project demonstrates Power Query data preparation, star schema modeling, DAX measures, executive dashboard design, and in-report documentation.
 
 
 

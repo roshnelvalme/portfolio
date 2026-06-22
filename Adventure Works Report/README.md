@@ -6,7 +6,8 @@
 
 [Link to Hosted Report](https://app.powerbi.com/view?r=eyJrIjoiN2ZhNTAzM2YtNmJjNS00M2RjLWJlMmEtMWFiNzEwYjRmOTlkIiwidCI6IjlhYzIwMTdiLTBiNjAtNDgzZC1iYjkzLWVjOWU3YTU1MDE3MCJ9)
 
-
+## Executive Summary
+Developed an interactive Power BI sales analytics report using the Adventure Works dataset to track revenue, profit, returns, regional performance, product trends, and customer segments. The project demonstrates Power Query data preparation, star schema modeling, DAX measures, executive dashboard design, and in-report documentation.
 
 ## Situation
 I was tasked with a project to analyze raw sales and operational data for AdventureWorks, a fictional global manufacturing company specializing in cycling equipment. The project's starting point was a collection of disparate CSV files, and there was no existing centralized tool to monitor key performance indicators (KPIs) or make informed, data-driven decisions.

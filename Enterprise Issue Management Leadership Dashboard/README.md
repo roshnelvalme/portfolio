@@ -7,6 +7,7 @@
 [Link to Hosted Report](https://app.powerbi.com/view?r=eyJrIjoiODE1MzdiMTEtODhiMi00NTdiLTg2OTItMTRmNDBkNjE5NGVmIiwidCI6IjlhYzIwMTdiLTBiNjAtNDgzZC1iYjkzLWVjOWU3YTU1MDE3MCJ9)
 
 ## Executive Summary
+
 Built a Power BI leadership dashboard that transformed a SharePoint-based issue list into an executive reporting tool for tracking open workload, aging issues, ownership, source trends, risk, status history, and resolution progress. The solution used Power Query, DAX, SharePoint version history, JSON parsing, and drill-through pages to support recurring leadership reviews and issue-level investigation.
 
 ## Project Description

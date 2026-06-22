@@ -7,6 +7,7 @@
 [Link to Hosted Report](https://app.powerbi.com/view?r=eyJrIjoiN2ZhNTAzM2YtNmJjNS00M2RjLWJlMmEtMWFiNzEwYjRmOTlkIiwidCI6IjlhYzIwMTdiLTBiNjAtNDgzZC1iYjkzLWVjOWU3YTU1MDE3MCJ9)
 
 ## Executive Summary
+
 Developed an interactive Power BI sales analytics report using the Adventure Works dataset to track revenue, profit, returns, regional performance, product trends, and customer segments. The project demonstrates Power Query data preparation, star schema modeling, DAX measures, executive dashboard design, and in-report documentation.
 
 ## Situation

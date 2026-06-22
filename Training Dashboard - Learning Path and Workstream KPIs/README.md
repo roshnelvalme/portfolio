@@ -7,6 +7,7 @@
 [Link to Hosted Report](https://app.powerbi.com/view?r=eyJrIjoiOTY1ZWQ5MGItODU1Zi00ZjlmLWFmYjUtYTBiMjg5NWVlZDBmIiwidCI6IjlhYzIwMTdiLTBiNjAtNDgzZC1iYjkzLWVjOWU3YTU1MDE3MCJ9)
 
 ## Executive Summary
+
 Replaced manual Excel-based training tracking with an automated Power BI dashboard that combines LMS exports, course mappings, learning path data, and workstream assignments into repeatable completion KPIs. The report helps leaders monitor learning path progress, workstream readiness, course completion, source-file freshness, and learner-level follow-up needs.
 
 ## Project Description
